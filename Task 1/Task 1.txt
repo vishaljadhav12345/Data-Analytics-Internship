@@ -1,0 +1,8 @@
+| Step                 | Action Taken                                                     |
+| -------------------- | ---------------------------------------------------------------- |
+| Missing Values       | Dropped rows with nulls                                          |
+| Duplicates           | Removed 12 duplicate rows                                        |
+| Text Standardization | Lowercased and stripped strings in `education`, `marital_status` |
+| Date Formats         | Converted `Dt_Customer` to datetime format                       |
+| Data Types           | Converted `income` to numeric and `year_birth` to integer        |
+| Column Headers       | Renamed to lowercase, snake\_case format                         |
