@@ -5,4 +5,7 @@
 | Text Standardization | Lowercased and stripped strings in `education`, `marital_status` |
 | Date Formats         | Converted `Dt_Customer` to datetime format                       |
 | Data Types           | Converted `income` to numeric and `year_birth` to integer        |
-| Column Headers       | Renamed to lowercase, snake\_case format                         |
+| Column Headers       | Renamed to lowercase, snake\_case format   
+
+                      |
+https://replit.com/@daredevimail199/Calculator-Using-HTML-CSS-JS?v=1

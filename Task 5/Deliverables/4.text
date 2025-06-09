@@ -1,0 +1,33 @@
+✅ Exploratory Data Analysis (EDA) on Titanic Dataset — Summary
+We have successfully loaded the Titanic training dataset (train.csv) which contains information about 891 passengers. Here's the first step of your Task 5: EDA:
+
+
+
+📊 Dataset Overview
+🔢 Total rows: 891
+
+📄 Columns: 12
+
+PassengerId, Survived, Pclass, Name, Sex, Age, SibSp, Parch, Ticket, Fare, Cabin, Embarked
+
+🔍 Missing values:
+
+Age: 177 missing
+
+Cabin: 687 missing
+
+Embarked: 2 missing
+
+
+
+🔢 Statistical Summary (.describe())
+
+Column	    Mean	Min	    Max
+Age	        29.7	0.42	80.0
+Fare	    32.2	0.0	    512.3
+SibSp	    0.52	0	    8
+Parch	    0.38	0	    6
+Survived	0.38	0	    1
+
+
+

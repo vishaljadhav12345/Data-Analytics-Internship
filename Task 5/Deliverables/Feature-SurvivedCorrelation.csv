@@ -1,0 +1,6 @@
+"Feature","Survived Correlation"
+"Pclass","-0.34"
+"Fare","+0.26"
+"Age","-0.08"
+"SibSp","-0.04"
+"Parch","+0.08"

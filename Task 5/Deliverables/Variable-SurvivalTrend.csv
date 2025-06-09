@@ -1,0 +1,6 @@
+"Variable","Survival Trend"
+"Sex","Females > Males"
+"Pclass","1st > 2nd > 3rd"
+"Fare","Higher fare = Higher survival"
+"Age","Children > Adults > Elderly"
+"Embarked","Minimal effect"
