@@ -1,0 +1,1001 @@
+order_id,customer_id,product_name,category,supplier,marketing_channel
+1001,C0103,Backpack,Accessories,H&M,
+1002,C0271,Sneakers,Footwear,Adidas,Email
+1003,C0107,T-shirt,Apparel,Puma,Email
+1004,C0072,Cap,Accessories,Puma,Affiliate
+1005,C0189,Backpack,Accessories,Adidas,Email
+1006,C0021,Jacket,Apparel,Nike,
+1007,C0103,Sneakers,Footwear,Adidas,Social Media
+1008,C0122,Sneakers,Footwear,H&M,Referral
+1009,C0215,Cap,Accessories,Nike,Social Media
+1010,C0088,Socks,Apparel,Puma,Email
+1011,C0100,T-shirt,Apparel,Adidas,Social Media
+1012,C0152,Sneakers,Footwear,Zara,
+1013,C0131,Cap,Accessories,Zara,
+1014,C0150,Cap,Accessories,H&M,Email
+1015,C0258,Backpack,Accessories,Zara,Affiliate
+1016,C0294,Jacket,Apparel,Adidas,Social Media
+1017,C0192,Socks,Apparel,Adidas,Affiliate
+1018,C0277,T-shirt,Apparel,Zara,Affiliate
+1019,C0161,Jeans,Apparel,Adidas,Search
+1020,C0022,Jacket,Apparel,H&M,Email
+1021,C0253,Jacket,Apparel,Nike,Referral
+1022,C0236,Backpack,Accessories,H&M,
+1023,C0049,Sneakers,Footwear,H&M,
+1024,C0059,Sneakers,Footwear,Adidas,Email
+1025,C0170,Backpack,Accessories,Nike,Referral
+1026,C0188,Cap,Accessories,Adidas,
+1027,C0271,Sneakers,Footwear,Puma,Email
+1028,C0190,Socks,Apparel,Adidas,
+1029,C0175,T-shirt,Apparel,Adidas,Affiliate
+1030,C0051,Jacket,Apparel,Adidas,Social Media
+1031,C0055,Jacket,Apparel,Nike,Social Media
+1032,C0244,Socks,Apparel,Adidas,
+1033,C0131,Sneakers,Footwear,Nike,Search
+1034,C0135,Jacket,Apparel,Zara,Referral
+1035,C0021,Jeans,Apparel,Puma,Referral
+1036,C0167,T-shirt,Apparel,Nike,Referral
+1037,C0274,T-shirt,Apparel,Zara,Affiliate
+1038,C0089,Jacket,Apparel,Nike,Referral
+1039,C0014,Backpack,Accessories,Nike,Social Media
+1040,C0242,Jacket,Apparel,Puma,Affiliate
+1041,C0265,Backpack,Accessories,H&M,Email
+1042,C0053,Jacket,Apparel,H&M,Referral
+1043,C0092,Jeans,Apparel,Nike,Referral
+1044,C0264,Cap,Accessories,Adidas,Email
+1045,C0035,T-shirt,Apparel,Zara,Referral
+1046,C0206,Jacket,Apparel,Adidas,Email
+1047,C0081,Jeans,Apparel,Adidas,Affiliate
+1048,C0050,Backpack,Accessories,Nike,Social Media
+1049,C0002,Backpack,Accessories,Nike,Email
+1050,C0054,T-shirt,Apparel,Nike,Search
+1051,C0106,Socks,Apparel,Nike,Email
+1052,C0260,Jacket,Apparel,H&M,Referral
+1053,C0191,Sneakers,Footwear,Nike,Affiliate
+1054,C0218,Backpack,Accessories,H&M,
+1055,C0044,Cap,Accessories,H&M,Affiliate
+1056,C0162,Cap,Accessories,Nike,
+1057,C0202,Backpack,Accessories,Puma,Email
+1058,C0270,Socks,Apparel,Zara,Social Media
+1059,C0271,Socks,Apparel,Adidas,Search
+1060,C0215,Jeans,Apparel,H&M,Affiliate
+1061,C0252,Cap,Accessories,Zara,Referral
+1062,C0190,Jeans,Apparel,Puma,
+1063,C0296,Cap,Accessories,Adidas,Referral
+1064,C0213,Jacket,Apparel,Adidas,Social Media
+1065,C0208,Jacket,Apparel,H&M,
+1066,C0237,Sneakers,Footwear,Nike,Affiliate
+1067,C0053,Jacket,Apparel,Puma,Email
+1068,C0280,Sneakers,Footwear,H&M,Referral
+1069,C0217,Jacket,Apparel,Puma,Social Media
+1070,C0252,T-shirt,Apparel,Nike,Affiliate
+1071,C0188,Jacket,Apparel,Nike,Affiliate
+1072,C0041,Jeans,Apparel,H&M,Affiliate
+1073,C0157,Backpack,Accessories,Nike,Affiliate
+1074,C0015,Jeans,Apparel,Zara,
+1075,C0065,Backpack,Accessories,Adidas,Affiliate
+1076,C0009,Socks,Apparel,H&M,Referral
+1077,C0129,Jeans,Apparel,Puma,Social Media
+1078,C0136,Socks,Apparel,Zara,
+1079,C0063,Sneakers,Footwear,H&M,Affiliate
+1080,C0139,Sneakers,Footwear,Nike,Search
+1081,C0081,T-shirt,Apparel,Nike,Search
+1082,C0163,Jacket,Apparel,Nike,Social Media
+1083,C0289,Jeans,Apparel,Nike,Email
+1084,C0261,Socks,Apparel,Puma,Email
+1085,C0231,Backpack,Accessories,Zara,
+1086,C0041,Sneakers,Footwear,Adidas,
+1087,C0028,Jacket,Apparel,Puma,
+1088,C0135,Sneakers,Footwear,Puma,Email
+1089,C0201,Backpack,Accessories,Adidas,Search
+1090,C0268,Jacket,Apparel,Adidas,Email
+1091,C0033,Jacket,Apparel,Nike,Referral
+1092,C0048,Socks,Apparel,Puma,Affiliate
+1093,C0062,Socks,Apparel,H&M,
+1094,C0216,Jeans,Apparel,Adidas,Search
+1095,C0293,Jeans,Apparel,Adidas,Social Media
+1096,C0099,Cap,Accessories,Zara,Social Media
+1097,C0172,Cap,Accessories,H&M,Affiliate
+1098,C0214,T-shirt,Apparel,H&M,Search
+1099,C0035,Sneakers,Footwear,Adidas,Email
+1100,C0227,Jeans,Apparel,Nike,Email
+1101,C0101,Socks,Apparel,Zara,Referral
+1102,C0131,Backpack,Accessories,H&M,Referral
+1103,C0257,Socks,Apparel,Adidas,Email
+1104,C0005,Sneakers,Footwear,H&M,Social Media
+1105,C0218,Cap,Accessories,Zara,
+1106,C0255,Socks,Apparel,Zara,Social Media
+1107,C0283,T-shirt,Apparel,Puma,Referral
+1108,C0207,Sneakers,Footwear,Adidas,Affiliate
+1109,C0015,Cap,Accessories,Zara,Email
+1110,C0042,Backpack,Accessories,Puma,Referral
+1111,C0179,Cap,Accessories,Puma,Referral
+1112,C0063,Jacket,Apparel,H&M,
+1113,C0231,T-shirt,Apparel,H&M,Email
+1114,C0241,Sneakers,Footwear,Puma,
+1115,C0052,Backpack,Accessories,H&M,Email
+1116,C0096,T-shirt,Apparel,Zara,
+1117,C0222,Cap,Accessories,Nike,Social Media
+1118,C0231,T-shirt,Apparel,Zara,Affiliate
+1119,C0237,Sneakers,Footwear,Puma,Affiliate
+1120,C0143,Jeans,Apparel,Puma,Email
+1121,C0171,T-shirt,Apparel,Zara,Search
+1122,C0029,Jacket,Apparel,H&M,Referral
+1123,C0036,T-shirt,Apparel,H&M,Referral
+1124,C0013,Cap,Accessories,Puma,Email
+1125,C0160,Cap,Accessories,Adidas,
+1126,C0187,Backpack,Accessories,H&M,Search
+1127,C0243,Cap,Accessories,Zara,Social Media
+1128,C0086,Socks,Apparel,H&M,
+1129,C0284,Sneakers,Footwear,Zara,
+1130,C0066,Sneakers,Footwear,Puma,Email
+1131,C0170,Jeans,Apparel,H&M,Email
+1132,C0045,Jeans,Apparel,Zara,Referral
+1133,C0062,Sneakers,Footwear,Puma,Email
+1134,C0134,Jacket,Apparel,Adidas,Email
+1135,C0284,Jeans,Apparel,Zara,Email
+1136,C0028,Backpack,Accessories,Adidas,Referral
+1137,C0108,Cap,Accessories,Adidas,Social Media
+1138,C0044,Sneakers,Footwear,Nike,Social Media
+1139,C0286,Jeans,Apparel,H&M,Email
+1140,C0128,Sneakers,Footwear,Zara,Referral
+1141,C0231,Socks,Apparel,Adidas,Social Media
+1142,C0190,T-shirt,Apparel,Nike,
+1143,C0225,Cap,Accessories,Puma,Social Media
+1144,C0283,Sneakers,Footwear,Zara,Social Media
+1145,C0121,T-shirt,Apparel,Adidas,Referral
+1146,C0116,Jeans,Apparel,H&M,
+1147,C0233,T-shirt,Apparel,Nike,Referral
+1148,C0259,Cap,Accessories,Adidas,Email
+1149,C0198,Sneakers,Footwear,H&M,Affiliate
+1150,C0137,Socks,Apparel,Adidas,Social Media
+1151,C0165,Jacket,Apparel,Zara,Affiliate
+1152,C0225,Jeans,Apparel,Zara,Referral
+1153,C0234,Sneakers,Footwear,Zara,Referral
+1154,C0172,Cap,Accessories,Nike,Referral
+1155,C0152,Jeans,Apparel,Zara,Affiliate
+1156,C0160,Backpack,Accessories,H&M,Referral
+1157,C0096,T-shirt,Apparel,Adidas,Email
+1158,C0233,Jacket,Apparel,Puma,Referral
+1159,C0180,Cap,Accessories,H&M,Search
+1160,C0113,Backpack,Accessories,H&M,Affiliate
+1161,C0052,Sneakers,Footwear,Zara,Search
+1162,C0268,Socks,Apparel,Nike,Referral
+1163,C0295,Jeans,Apparel,Adidas,Email
+1164,C0113,T-shirt,Apparel,Nike,Social Media
+1165,C0101,Jeans,Apparel,Adidas,
+1166,C0113,Jacket,Apparel,Adidas,
+1167,C0081,Sneakers,Footwear,Nike,Referral
+1168,C0187,Jeans,Apparel,H&M,Email
+1169,C0113,T-shirt,Apparel,Adidas,Affiliate
+1170,C0002,Sneakers,Footwear,Nike,Search
+1171,C0130,Jeans,Apparel,Adidas,Search
+1172,C0220,Socks,Apparel,Puma,Search
+1173,C0054,Cap,Accessories,H&M,Affiliate
+1174,C0224,Sneakers,Footwear,Zara,
+1175,C0225,Cap,Accessories,Adidas,Email
+1176,C0126,Sneakers,Footwear,Puma,Affiliate
+1177,C0130,Socks,Apparel,Zara,Search
+1178,C0053,Cap,Accessories,Zara,Referral
+1179,C0172,Backpack,Accessories,Adidas,Social Media
+1180,C0218,T-shirt,Apparel,Nike,Affiliate
+1181,C0160,Backpack,Accessories,Adidas,Affiliate
+1182,C0198,Jeans,Apparel,Puma,Email
+1183,C0247,Socks,Apparel,Zara,Email
+1184,C0203,Backpack,Accessories,Adidas,Affiliate
+1185,C0184,Sneakers,Footwear,Nike,Search
+1186,C0123,Jeans,Apparel,Adidas,Social Media
+1187,C0255,Jeans,Apparel,H&M,Email
+1188,C0294,Backpack,Accessories,Nike,Search
+1189,C0280,Backpack,Accessories,Puma,Referral
+1190,C0098,Socks,Apparel,Zara,Email
+1191,C0198,T-shirt,Apparel,Adidas,Search
+1192,C0240,Backpack,Accessories,Nike,Search
+1193,C0144,Jacket,Apparel,H&M,Social Media
+1194,C0097,Backpack,Accessories,Nike,Social Media
+1195,C0201,Cap,Accessories,H&M,Referral
+1196,C0124,Sneakers,Footwear,Puma,Search
+1197,C0187,Jacket,Apparel,Zara,
+1198,C0259,Jacket,Apparel,Puma,Search
+1199,C0148,Cap,Accessories,Adidas,Social Media
+1200,C0252,Cap,Accessories,Nike,
+1201,C0147,Jeans,Apparel,H&M,Email
+1202,C0148,T-shirt,Apparel,H&M,Email
+1203,C0199,Sneakers,Footwear,Nike,Affiliate
+1204,C0128,Socks,Apparel,Nike,Social Media
+1205,C0039,Jacket,Apparel,Adidas,Affiliate
+1206,C0129,Socks,Apparel,Puma,
+1207,C0267,Backpack,Accessories,H&M,Social Media
+1208,C0151,Backpack,Accessories,Adidas,Referral
+1209,C0298,Socks,Apparel,Puma,Search
+1210,C0099,Backpack,Accessories,Adidas,Referral
+1211,C0263,T-shirt,Apparel,H&M,
+1212,C0252,Cap,Accessories,Nike,Social Media
+1213,C0144,Backpack,Accessories,Nike,
+1214,C0112,Jeans,Apparel,Puma,Search
+1215,C0060,Backpack,Accessories,Zara,Email
+1216,C0002,Sneakers,Footwear,Puma,Email
+1217,C0254,T-shirt,Apparel,Zara,
+1218,C0140,Sneakers,Footwear,Adidas,Affiliate
+1219,C0037,Sneakers,Footwear,Adidas,Social Media
+1220,C0160,Jeans,Apparel,H&M,Social Media
+1221,C0009,T-shirt,Apparel,Zara,Email
+1222,C0233,T-shirt,Apparel,H&M,Referral
+1223,C0099,T-shirt,Apparel,Nike,Search
+1224,C0147,T-shirt,Apparel,Zara,Referral
+1225,C0208,T-shirt,Apparel,Puma,Referral
+1226,C0131,Jeans,Apparel,Nike,
+1227,C0152,Backpack,Accessories,Nike,Email
+1228,C0054,Sneakers,Footwear,Puma,Email
+1229,C0120,T-shirt,Apparel,Nike,Email
+1230,C0161,Jacket,Apparel,Zara,
+1231,C0116,Backpack,Accessories,H&M,Affiliate
+1232,C0075,Backpack,Accessories,Nike,Referral
+1233,C0113,Sneakers,Footwear,Zara,
+1234,C0104,Jeans,Apparel,Adidas,Social Media
+1235,C0254,Socks,Apparel,Zara,Search
+1236,C0227,Socks,Apparel,H&M,Affiliate
+1237,C0112,Backpack,Accessories,Zara,Social Media
+1238,C0099,Cap,Accessories,Puma,Referral
+1239,C0153,Cap,Accessories,H&M,Email
+1240,C0194,Sneakers,Footwear,Adidas,Referral
+1241,C0163,Socks,Apparel,Puma,
+1242,C0208,Backpack,Accessories,Zara,Search
+1243,C0169,Jeans,Apparel,H&M,
+1244,C0161,Socks,Apparel,Adidas,Affiliate
+1245,C0068,Backpack,Accessories,Puma,Affiliate
+1246,C0289,Backpack,Accessories,Adidas,Search
+1247,C0277,T-shirt,Apparel,Zara,Social Media
+1248,C0135,Jeans,Apparel,Adidas,Social Media
+1249,C0195,T-shirt,Apparel,Nike,Affiliate
+1250,C0128,Sneakers,Footwear,Puma,Affiliate
+1251,C0033,T-shirt,Apparel,Adidas,Email
+1252,C0176,Jacket,Apparel,Zara,Social Media
+1253,C0022,T-shirt,Apparel,Zara,Search
+1254,C0238,Jacket,Apparel,Adidas,Social Media
+1255,C0158,Socks,Apparel,Zara,Email
+1256,C0038,Cap,Accessories,H&M,
+1257,C0230,Backpack,Accessories,H&M,Affiliate
+1258,C0051,Jacket,Apparel,H&M,Affiliate
+1259,C0264,Jeans,Apparel,Nike,Email
+1260,C0283,T-shirt,Apparel,Adidas,Search
+1261,C0027,Jacket,Apparel,Nike,Affiliate
+1262,C0226,Jeans,Apparel,Zara,Referral
+1263,C0277,Cap,Accessories,Nike,Affiliate
+1264,C0286,Cap,Accessories,Zara,Referral
+1265,C0097,T-shirt,Apparel,Zara,Email
+1266,C0284,Sneakers,Footwear,Puma,Email
+1267,C0147,T-shirt,Apparel,H&M,Affiliate
+1268,C0004,Socks,Apparel,Zara,Social Media
+1269,C0035,Jacket,Apparel,Puma,Referral
+1270,C0192,Backpack,Accessories,H&M,Search
+1271,C0049,Sneakers,Footwear,Zara,Affiliate
+1272,C0017,T-shirt,Apparel,Zara,Search
+1273,C0172,Jeans,Apparel,Nike,Affiliate
+1274,C0220,Sneakers,Footwear,Nike,Social Media
+1275,C0158,Jacket,Apparel,H&M,Social Media
+1276,C0046,Sneakers,Footwear,Zara,Social Media
+1277,C0006,Jacket,Apparel,Adidas,
+1278,C0099,T-shirt,Apparel,Nike,Social Media
+1279,C0233,Jacket,Apparel,H&M,Email
+1280,C0037,Sneakers,Footwear,Zara,Email
+1281,C0280,Jeans,Apparel,Zara,
+1282,C0181,Cap,Accessories,Adidas,Referral
+1283,C0095,Sneakers,Footwear,H&M,Search
+1284,C0099,Jacket,Apparel,Zara,Affiliate
+1285,C0188,Cap,Accessories,Nike,Affiliate
+1286,C0116,Jacket,Apparel,Adidas,
+1287,C0191,Jeans,Apparel,H&M,Email
+1288,C0253,Jacket,Apparel,Adidas,Affiliate
+1289,C0161,T-shirt,Apparel,Nike,Email
+1290,C0256,Backpack,Accessories,H&M,Referral
+1291,C0128,Sneakers,Footwear,Adidas,Search
+1292,C0018,Backpack,Accessories,Puma,Referral
+1293,C0281,Jacket,Apparel,Nike,
+1294,C0223,Jeans,Apparel,Nike,Social Media
+1295,C0054,Sneakers,Footwear,Nike,Social Media
+1296,C0058,Jacket,Apparel,Puma,Social Media
+1297,C0174,Cap,Accessories,Puma,Referral
+1298,C0280,Socks,Apparel,Zara,Affiliate
+1299,C0114,Jacket,Apparel,Adidas,Search
+1300,C0288,Backpack,Accessories,Zara,Social Media
+1301,C0151,Sneakers,Footwear,Adidas,
+1302,C0127,Backpack,Accessories,Puma,
+1303,C0155,Sneakers,Footwear,Puma,Social Media
+1304,C0273,Jacket,Apparel,Zara,Social Media
+1305,C0104,T-shirt,Apparel,H&M,Search
+1306,C0299,Cap,Accessories,Zara,Social Media
+1307,C0246,Jacket,Apparel,Adidas,Search
+1308,C0176,Backpack,Accessories,Zara,
+1309,C0039,Socks,Apparel,Nike,Social Media
+1310,C0170,Socks,Apparel,Adidas,Referral
+1311,C0247,Jeans,Apparel,Adidas,Referral
+1312,C0026,Sneakers,Footwear,H&M,
+1313,C0013,Backpack,Accessories,Puma,Search
+1314,C0036,Jeans,Apparel,Adidas,Referral
+1315,C0173,Backpack,Accessories,Puma,Search
+1316,C0020,Sneakers,Footwear,Zara,Referral
+1317,C0264,Jacket,Apparel,Nike,Referral
+1318,C0142,Jacket,Apparel,H&M,Search
+1319,C0143,Socks,Apparel,Puma,Affiliate
+1320,C0092,Jacket,Apparel,Adidas,Referral
+1321,C0288,Jacket,Apparel,Puma,Social Media
+1322,C0215,T-shirt,Apparel,Adidas,
+1323,C0051,Socks,Apparel,Puma,Affiliate
+1324,C0153,Jeans,Apparel,Adidas,Search
+1325,C0186,Cap,Accessories,Zara,Affiliate
+1326,C0063,T-shirt,Apparel,Adidas,Email
+1327,C0190,Jeans,Apparel,Adidas,Email
+1328,C0125,Sneakers,Footwear,Nike,Referral
+1329,C0150,T-shirt,Apparel,Adidas,Referral
+1330,C0058,Jeans,Apparel,Nike,Social Media
+1331,C0180,Sneakers,Footwear,H&M,
+1332,C0170,Socks,Apparel,Nike,Affiliate
+1333,C0271,Cap,Accessories,Zara,Email
+1334,C0054,Sneakers,Footwear,Nike,Referral
+1335,C0101,Jacket,Apparel,H&M,
+1336,C0264,Backpack,Accessories,Zara,Affiliate
+1337,C0053,Sneakers,Footwear,Puma,Referral
+1338,C0060,Sneakers,Footwear,Puma,Referral
+1339,C0108,Cap,Accessories,Nike,Email
+1340,C0005,Backpack,Accessories,Nike,Email
+1341,C0103,Jacket,Apparel,H&M,Referral
+1342,C0196,Jeans,Apparel,H&M,Search
+1343,C0262,Jeans,Apparel,Adidas,Referral
+1344,C0047,Sneakers,Footwear,H&M,
+1345,C0144,Backpack,Accessories,Adidas,Referral
+1346,C0269,Backpack,Accessories,Zara,Social Media
+1347,C0124,Jacket,Apparel,Nike,Social Media
+1348,C0106,Cap,Accessories,Zara,Social Media
+1349,C0158,Socks,Apparel,H&M,Search
+1350,C0147,Jeans,Apparel,Zara,Search
+1351,C0145,Cap,Accessories,Zara,Referral
+1352,C0120,T-shirt,Apparel,Zara,Social Media
+1353,C0275,Jeans,Apparel,H&M,Search
+1354,C0092,Cap,Accessories,Zara,Email
+1355,C0058,Jeans,Apparel,Adidas,Referral
+1356,C0229,Socks,Apparel,H&M,
+1357,C0117,T-shirt,Apparel,Zara,Affiliate
+1358,C0279,Socks,Apparel,H&M,Referral
+1359,C0127,Jacket,Apparel,Puma,Affiliate
+1360,C0129,T-shirt,Apparel,Adidas,Social Media
+1361,C0058,Sneakers,Footwear,Zara,Affiliate
+1362,C0122,Cap,Accessories,Puma,Social Media
+1363,C0001,T-shirt,Apparel,Puma,Email
+1364,C0239,Jacket,Apparel,H&M,Affiliate
+1365,C0290,Jacket,Apparel,Puma,Referral
+1366,C0096,Socks,Apparel,Adidas,Social Media
+1367,C0126,Jeans,Apparel,Adidas,Referral
+1368,C0118,T-shirt,Apparel,Nike,Search
+1369,C0048,Cap,Accessories,Adidas,Social Media
+1370,C0089,T-shirt,Apparel,Puma,Affiliate
+1371,C0237,Backpack,Accessories,Adidas,Social Media
+1372,C0272,Jeans,Apparel,H&M,Referral
+1373,C0189,Cap,Accessories,Nike,Email
+1374,C0192,Cap,Accessories,Puma,Social Media
+1375,C0069,Sneakers,Footwear,Nike,Affiliate
+1376,C0278,Socks,Apparel,Puma,Search
+1377,C0247,Sneakers,Footwear,H&M,
+1378,C0076,Cap,Accessories,Nike,Email
+1379,C0154,Jeans,Apparel,Zara,Search
+1380,C0144,T-shirt,Apparel,Puma,Social Media
+1381,C0086,T-shirt,Apparel,Zara,Referral
+1382,C0185,Jeans,Apparel,Nike,Referral
+1383,C0285,Cap,Accessories,Zara,Affiliate
+1384,C0220,Jacket,Apparel,Zara,Referral
+1385,C0069,T-shirt,Apparel,Nike,Email
+1386,C0047,Jacket,Apparel,H&M,Referral
+1387,C0094,T-shirt,Apparel,Zara,Affiliate
+1388,C0238,T-shirt,Apparel,Zara,
+1389,C0204,Socks,Apparel,H&M,Social Media
+1390,C0218,Socks,Apparel,Zara,Social Media
+1391,C0039,Backpack,Accessories,Zara,Referral
+1392,C0100,Sneakers,Footwear,Zara,Search
+1393,C0289,Jeans,Apparel,Adidas,Social Media
+1394,C0254,Jeans,Apparel,H&M,
+1395,C0222,Jeans,Apparel,Zara,Referral
+1396,C0023,Backpack,Accessories,H&M,Affiliate
+1397,C0250,Socks,Apparel,Puma,
+1398,C0010,Cap,Accessories,Puma,Referral
+1399,C0246,Jacket,Apparel,Zara,
+1400,C0100,Jacket,Apparel,H&M,Social Media
+1401,C0290,Cap,Accessories,H&M,Affiliate
+1402,C0180,Backpack,Accessories,H&M,Referral
+1403,C0223,Cap,Accessories,Adidas,Email
+1404,C0250,Jeans,Apparel,Puma,Affiliate
+1405,C0147,Sneakers,Footwear,H&M,Email
+1406,C0096,T-shirt,Apparel,H&M,
+1407,C0257,Jacket,Apparel,Adidas,Search
+1408,C0004,Socks,Apparel,Adidas,Affiliate
+1409,C0016,Socks,Apparel,H&M,
+1410,C0280,Backpack,Accessories,Nike,Email
+1411,C0247,Socks,Apparel,H&M,Social Media
+1412,C0258,Jeans,Apparel,H&M,Social Media
+1413,C0160,Jacket,Apparel,Adidas,Search
+1414,C0152,Cap,Accessories,Adidas,Affiliate
+1415,C0178,Jeans,Apparel,H&M,Affiliate
+1416,C0163,Backpack,Accessories,H&M,Affiliate
+1417,C0033,Jeans,Apparel,H&M,
+1418,C0179,Cap,Accessories,Adidas,Search
+1419,C0101,Sneakers,Footwear,H&M,Affiliate
+1420,C0268,Backpack,Accessories,H&M,
+1421,C0065,Sneakers,Footwear,Zara,Social Media
+1422,C0168,T-shirt,Apparel,Nike,Email
+1423,C0043,Sneakers,Footwear,Puma,
+1424,C0044,T-shirt,Apparel,Nike,Social Media
+1425,C0285,T-shirt,Apparel,Zara,Social Media
+1426,C0012,Sneakers,Footwear,Puma,Email
+1427,C0095,Backpack,Accessories,H&M,Social Media
+1428,C0253,Cap,Accessories,Zara,Search
+1429,C0242,Jeans,Apparel,H&M,Email
+1430,C0035,Jeans,Apparel,Adidas,Social Media
+1431,C0215,Cap,Accessories,Zara,Referral
+1432,C0090,Jacket,Apparel,Adidas,
+1433,C0264,Jacket,Apparel,Zara,Social Media
+1434,C0093,T-shirt,Apparel,Zara,Search
+1435,C0090,T-shirt,Apparel,Adidas,Affiliate
+1436,C0115,Backpack,Accessories,Puma,Social Media
+1437,C0105,Socks,Apparel,Nike,Affiliate
+1438,C0196,Sneakers,Footwear,H&M,Referral
+1439,C0114,T-shirt,Apparel,Zara,Social Media
+1440,C0075,Jeans,Apparel,H&M,Email
+1441,C0217,Backpack,Accessories,Adidas,Affiliate
+1442,C0277,Sneakers,Footwear,H&M,Referral
+1443,C0249,Backpack,Accessories,Adidas,Email
+1444,C0164,Sneakers,Footwear,H&M,Email
+1445,C0192,Sneakers,Footwear,Nike,Email
+1446,C0227,Cap,Accessories,Nike,Email
+1447,C0177,T-shirt,Apparel,Nike,Social Media
+1448,C0099,Backpack,Accessories,Nike,
+1449,C0036,Backpack,Accessories,Nike,Social Media
+1450,C0096,Cap,Accessories,Nike,Social Media
+1451,C0152,Jeans,Apparel,Adidas,Referral
+1452,C0151,Jeans,Apparel,Zara,Referral
+1453,C0190,Jacket,Apparel,H&M,
+1454,C0224,T-shirt,Apparel,Nike,Referral
+1455,C0037,T-shirt,Apparel,Adidas,Search
+1456,C0268,Socks,Apparel,Adidas,
+1457,C0183,Cap,Accessories,Adidas,Referral
+1458,C0013,Jeans,Apparel,Zara,
+1459,C0279,Sneakers,Footwear,H&M,Social Media
+1460,C0217,Backpack,Accessories,Zara,Social Media
+1461,C0286,T-shirt,Apparel,Puma,
+1462,C0273,Backpack,Accessories,Adidas,Search
+1463,C0062,Backpack,Accessories,Puma,Search
+1464,C0084,Socks,Apparel,Nike,
+1465,C0217,Jeans,Apparel,Nike,Referral
+1466,C0187,T-shirt,Apparel,Zara,Affiliate
+1467,C0019,Backpack,Accessories,H&M,Search
+1468,C0177,T-shirt,Apparel,Puma,Email
+1469,C0100,Sneakers,Footwear,H&M,Social Media
+1470,C0233,Socks,Apparel,Zara,
+1471,C0076,Sneakers,Footwear,Nike,Email
+1472,C0265,T-shirt,Apparel,H&M,
+1473,C0284,Jacket,Apparel,H&M,Social Media
+1474,C0206,T-shirt,Apparel,Nike,Social Media
+1475,C0223,Jeans,Apparel,Puma,Search
+1476,C0052,Backpack,Accessories,Nike,Search
+1477,C0144,Backpack,Accessories,H&M,Email
+1478,C0069,Sneakers,Footwear,Puma,
+1479,C0099,Socks,Apparel,Puma,Social Media
+1480,C0025,Jacket,Apparel,Nike,Email
+1481,C0053,Cap,Accessories,H&M,Affiliate
+1482,C0151,Backpack,Accessories,Zara,Email
+1483,C0144,Jeans,Apparel,H&M,Referral
+1484,C0057,Sneakers,Footwear,Adidas,Email
+1485,C0039,Sneakers,Footwear,Zara,Referral
+1486,C0109,Cap,Accessories,Puma,Referral
+1487,C0181,Jeans,Apparel,Zara,Referral
+1488,C0042,Socks,Apparel,Puma,Affiliate
+1489,C0186,Jeans,Apparel,Puma,Email
+1490,C0223,Socks,Apparel,Zara,Email
+1491,C0122,Jeans,Apparel,Puma,Affiliate
+1492,C0133,Jeans,Apparel,Puma,Social Media
+1493,C0163,T-shirt,Apparel,Adidas,Search
+1494,C0215,Sneakers,Footwear,H&M,Email
+1495,C0221,Jeans,Apparel,H&M,Search
+1496,C0235,Cap,Accessories,Adidas,
+1497,C0146,Jeans,Apparel,Zara,
+1498,C0239,Backpack,Accessories,Nike,Affiliate
+1499,C0076,Sneakers,Footwear,Nike,
+1500,C0009,Backpack,Accessories,Nike,
+1501,C0074,Sneakers,Footwear,Adidas,Social Media
+1502,C0253,Backpack,Accessories,Adidas,Social Media
+1503,C0230,Jeans,Apparel,Puma,Social Media
+1504,C0007,Jeans,Apparel,Nike,
+1505,C0174,T-shirt,Apparel,Zara,Affiliate
+1506,C0141,Cap,Accessories,Zara,Referral
+1507,C0168,Backpack,Accessories,Nike,Referral
+1508,C0170,Socks,Apparel,Nike,Search
+1509,C0283,T-shirt,Apparel,Nike,Referral
+1510,C0122,Backpack,Accessories,Adidas,Referral
+1511,C0194,Backpack,Accessories,Adidas,Social Media
+1512,C0005,T-shirt,Apparel,Adidas,Social Media
+1513,C0029,Jeans,Apparel,H&M,
+1514,C0165,Backpack,Accessories,Zara,Search
+1515,C0136,Jeans,Apparel,Zara,Email
+1516,C0145,T-shirt,Apparel,Puma,Search
+1517,C0217,Jeans,Apparel,Adidas,Search
+1518,C0132,Sneakers,Footwear,H&M,Affiliate
+1519,C0292,Socks,Apparel,H&M,
+1520,C0070,Jacket,Apparel,Zara,Affiliate
+1521,C0252,Backpack,Accessories,Adidas,Search
+1522,C0275,Cap,Accessories,Puma,Search
+1523,C0182,Socks,Apparel,Adidas,Search
+1524,C0167,Jacket,Apparel,Nike,Referral
+1525,C0091,Jeans,Apparel,Adidas,Affiliate
+1526,C0202,Backpack,Accessories,Nike,Search
+1527,C0019,Jeans,Apparel,Nike,Social Media
+1528,C0039,Sneakers,Footwear,Puma,
+1529,C0126,T-shirt,Apparel,Zara,
+1530,C0173,Backpack,Accessories,Adidas,Social Media
+1531,C0141,Jacket,Apparel,Nike,
+1532,C0242,Jacket,Apparel,Adidas,Referral
+1533,C0220,Sneakers,Footwear,Zara,Referral
+1534,C0126,Sneakers,Footwear,Zara,Email
+1535,C0058,Backpack,Accessories,H&M,Email
+1536,C0148,Jeans,Apparel,Zara,Email
+1537,C0001,Cap,Accessories,Puma,
+1538,C0190,Jacket,Apparel,Nike,Referral
+1539,C0191,Jacket,Apparel,H&M,Referral
+1540,C0117,Sneakers,Footwear,Puma,Referral
+1541,C0134,Socks,Apparel,Adidas,Social Media
+1542,C0058,Sneakers,Footwear,Nike,Referral
+1543,C0044,Cap,Accessories,Zara,Social Media
+1544,C0173,Jeans,Apparel,Nike,Email
+1545,C0160,Jeans,Apparel,Adidas,Email
+1546,C0173,Socks,Apparel,H&M,
+1547,C0149,Jacket,Apparel,H&M,Email
+1548,C0080,Sneakers,Footwear,H&M,
+1549,C0213,Jeans,Apparel,Zara,Search
+1550,C0203,Cap,Accessories,Puma,Search
+1551,C0252,Backpack,Accessories,Puma,Affiliate
+1552,C0229,T-shirt,Apparel,Nike,
+1553,C0164,T-shirt,Apparel,Zara,Affiliate
+1554,C0227,T-shirt,Apparel,H&M,Affiliate
+1555,C0147,Jacket,Apparel,H&M,Search
+1556,C0020,Sneakers,Footwear,Adidas,
+1557,C0047,Socks,Apparel,Adidas,Search
+1558,C0233,Jeans,Apparel,H&M,Affiliate
+1559,C0014,Backpack,Accessories,H&M,
+1560,C0143,Cap,Accessories,Zara,Affiliate
+1561,C0001,Backpack,Accessories,Puma,Referral
+1562,C0054,Cap,Accessories,Adidas,
+1563,C0259,Jacket,Apparel,Puma,
+1564,C0144,Sneakers,Footwear,Zara,Affiliate
+1565,C0012,T-shirt,Apparel,H&M,Referral
+1566,C0224,Sneakers,Footwear,Puma,Social Media
+1567,C0272,Jacket,Apparel,H&M,Search
+1568,C0156,Socks,Apparel,H&M,Affiliate
+1569,C0008,Socks,Apparel,Nike,
+1570,C0122,Jacket,Apparel,Puma,Search
+1571,C0164,Cap,Accessories,Puma,Search
+1572,C0090,Jeans,Apparel,H&M,Search
+1573,C0136,Jeans,Apparel,Zara,Social Media
+1574,C0186,Cap,Accessories,Nike,Email
+1575,C0178,Socks,Apparel,H&M,Affiliate
+1576,C0028,Socks,Apparel,Adidas,Email
+1577,C0220,Socks,Apparel,Adidas,Email
+1578,C0041,Sneakers,Footwear,Nike,Email
+1579,C0228,Socks,Apparel,Zara,Search
+1580,C0192,Backpack,Accessories,H&M,Referral
+1581,C0145,T-shirt,Apparel,Puma,Search
+1582,C0201,Socks,Apparel,Nike,Search
+1583,C0212,Cap,Accessories,Zara,
+1584,C0220,T-shirt,Apparel,Puma,
+1585,C0240,Sneakers,Footwear,Adidas,Email
+1586,C0046,Cap,Accessories,Adidas,Search
+1587,C0035,T-shirt,Apparel,Puma,Email
+1588,C0253,Cap,Accessories,Nike,
+1589,C0082,Sneakers,Footwear,Adidas,Referral
+1590,C0256,Backpack,Accessories,H&M,Affiliate
+1591,C0197,Sneakers,Footwear,Puma,Email
+1592,C0010,Sneakers,Footwear,Puma,Referral
+1593,C0286,Cap,Accessories,Adidas,Affiliate
+1594,C0242,Jacket,Apparel,Nike,Social Media
+1595,C0251,Jeans,Apparel,H&M,Email
+1596,C0005,Socks,Apparel,Nike,Email
+1597,C0119,Socks,Apparel,Zara,Social Media
+1598,C0289,Backpack,Accessories,Zara,Social Media
+1599,C0065,Backpack,Accessories,Adidas,Email
+1600,C0146,Socks,Apparel,Adidas,Social Media
+1601,C0224,Jeans,Apparel,Adidas,Search
+1602,C0239,Socks,Apparel,Zara,Affiliate
+1603,C0177,Jacket,Apparel,Nike,Affiliate
+1604,C0267,Jeans,Apparel,Nike,Affiliate
+1605,C0282,Backpack,Accessories,Adidas,Search
+1606,C0063,T-shirt,Apparel,H&M,Social Media
+1607,C0217,Cap,Accessories,Nike,Referral
+1608,C0283,Jacket,Apparel,Zara,Social Media
+1609,C0177,Jacket,Apparel,Puma,Email
+1610,C0098,Backpack,Accessories,Puma,
+1611,C0105,Backpack,Accessories,Puma,Affiliate
+1612,C0099,Sneakers,Footwear,H&M,Social Media
+1613,C0006,Jacket,Apparel,Adidas,Referral
+1614,C0197,Sneakers,Footwear,Zara,Email
+1615,C0133,Sneakers,Footwear,H&M,Search
+1616,C0259,Cap,Accessories,Zara,Search
+1617,C0023,Sneakers,Footwear,Zara,Referral
+1618,C0053,Jeans,Apparel,Adidas,Email
+1619,C0165,Socks,Apparel,Puma,Affiliate
+1620,C0202,T-shirt,Apparel,Adidas,Social Media
+1621,C0083,Backpack,Accessories,H&M,Email
+1622,C0145,Jeans,Apparel,H&M,Search
+1623,C0085,T-shirt,Apparel,H&M,Referral
+1624,C0078,Jacket,Apparel,Adidas,Referral
+1625,C0001,Jacket,Apparel,Zara,Social Media
+1626,C0051,Jacket,Apparel,Zara,Referral
+1627,C0173,Jeans,Apparel,Nike,Referral
+1628,C0205,Jeans,Apparel,H&M,Email
+1629,C0260,Backpack,Accessories,Zara,Affiliate
+1630,C0288,Socks,Apparel,Nike,Social Media
+1631,C0034,Sneakers,Footwear,Zara,Email
+1632,C0095,Jacket,Apparel,H&M,Affiliate
+1633,C0072,Cap,Accessories,Puma,Email
+1634,C0039,Socks,Apparel,H&M,
+1635,C0154,Cap,Accessories,Adidas,Email
+1636,C0250,Backpack,Accessories,Zara,Referral
+1637,C0162,Backpack,Accessories,Zara,Affiliate
+1638,C0118,Backpack,Accessories,Adidas,Social Media
+1639,C0259,T-shirt,Apparel,Adidas,Social Media
+1640,C0268,Cap,Accessories,Puma,Affiliate
+1641,C0054,Socks,Apparel,Zara,Referral
+1642,C0236,Socks,Apparel,Zara,Search
+1643,C0222,Jeans,Apparel,Puma,Email
+1644,C0251,Jeans,Apparel,Nike,Referral
+1645,C0112,Jacket,Apparel,Puma,
+1646,C0255,Jeans,Apparel,H&M,Affiliate
+1647,C0207,Backpack,Accessories,Zara,Email
+1648,C0229,Socks,Apparel,Adidas,Social Media
+1649,C0066,Cap,Accessories,H&M,Search
+1650,C0075,Backpack,Accessories,Zara,
+1651,C0103,T-shirt,Apparel,Puma,Social Media
+1652,C0192,Jeans,Apparel,H&M,Affiliate
+1653,C0252,Backpack,Accessories,Zara,Email
+1654,C0226,Backpack,Accessories,Nike,Affiliate
+1655,C0294,T-shirt,Apparel,Nike,Email
+1656,C0098,Sneakers,Footwear,Adidas,Referral
+1657,C0286,Socks,Apparel,Zara,Search
+1658,C0249,Cap,Accessories,Nike,Referral
+1659,C0166,Jacket,Apparel,Puma,Referral
+1660,C0030,Sneakers,Footwear,Zara,Affiliate
+1661,C0247,Jeans,Apparel,Puma,Search
+1662,C0106,Backpack,Accessories,Puma,Email
+1663,C0051,T-shirt,Apparel,Nike,Email
+1664,C0081,T-shirt,Apparel,Zara,
+1665,C0133,Socks,Apparel,H&M,Social Media
+1666,C0285,Sneakers,Footwear,Nike,
+1667,C0138,Jacket,Apparel,Nike,
+1668,C0184,Socks,Apparel,Zara,Email
+1669,C0273,Backpack,Accessories,Zara,Affiliate
+1670,C0069,Socks,Apparel,Puma,Referral
+1671,C0034,Cap,Accessories,Zara,Referral
+1672,C0262,T-shirt,Apparel,Puma,Referral
+1673,C0053,T-shirt,Apparel,Nike,Search
+1674,C0205,Jeans,Apparel,Adidas,Email
+1675,C0126,Jeans,Apparel,H&M,Affiliate
+1676,C0235,Jacket,Apparel,Nike,Search
+1677,C0043,Backpack,Accessories,Zara,Social Media
+1678,C0240,Cap,Accessories,H&M,Affiliate
+1679,C0111,Sneakers,Footwear,Adidas,
+1680,C0249,Socks,Apparel,Adidas,Affiliate
+1681,C0151,Jacket,Apparel,Puma,Affiliate
+1682,C0183,Backpack,Accessories,H&M,Referral
+1683,C0095,Jeans,Apparel,Puma,Affiliate
+1684,C0008,Socks,Apparel,Nike,
+1685,C0184,Jeans,Apparel,H&M,
+1686,C0281,Socks,Apparel,Nike,Email
+1687,C0195,Sneakers,Footwear,Puma,Affiliate
+1688,C0195,Backpack,Accessories,H&M,Referral
+1689,C0155,Socks,Apparel,Puma,Affiliate
+1690,C0093,Cap,Accessories,H&M,Social Media
+1691,C0160,Jacket,Apparel,Puma,Social Media
+1692,C0061,T-shirt,Apparel,Adidas,Referral
+1693,C0122,Cap,Accessories,Puma,Email
+1694,C0051,Cap,Accessories,Adidas,Email
+1695,C0277,Jacket,Apparel,Puma,
+1696,C0005,T-shirt,Apparel,H&M,
+1697,C0092,Cap,Accessories,H&M,Search
+1698,C0170,Socks,Apparel,H&M,Referral
+1699,C0022,Socks,Apparel,Zara,Affiliate
+1700,C0001,Socks,Apparel,Nike,Referral
+1701,C0133,T-shirt,Apparel,H&M,Search
+1702,C0233,Cap,Accessories,Adidas,
+1703,C0012,T-shirt,Apparel,H&M,Referral
+1704,C0046,Socks,Apparel,Zara,Referral
+1705,C0034,Jacket,Apparel,Adidas,
+1706,C0078,Cap,Accessories,Zara,Search
+1707,C0218,Cap,Accessories,Adidas,
+1708,C0073,Jeans,Apparel,Puma,Email
+1709,C0282,Jeans,Apparel,Nike,Affiliate
+1710,C0249,Sneakers,Footwear,Nike,
+1711,C0047,Backpack,Accessories,Zara,Search
+1712,C0121,Jeans,Apparel,Nike,Social Media
+1713,C0214,T-shirt,Apparel,Zara,Email
+1714,C0239,Jeans,Apparel,Zara,Social Media
+1715,C0056,Sneakers,Footwear,Zara,
+1716,C0107,Cap,Accessories,Nike,Email
+1717,C0048,Sneakers,Footwear,Zara,Affiliate
+1718,C0061,Cap,Accessories,Nike,
+1719,C0026,Jacket,Apparel,Zara,Affiliate
+1720,C0292,Jacket,Apparel,H&M,Referral
+1721,C0257,Cap,Accessories,Zara,Social Media
+1722,C0008,Backpack,Accessories,Adidas,Email
+1723,C0113,Jeans,Apparel,Zara,Affiliate
+1724,C0253,T-shirt,Apparel,Puma,Search
+1725,C0180,T-shirt,Apparel,Zara,Affiliate
+1726,C0207,Socks,Apparel,Adidas,Search
+1727,C0127,Cap,Accessories,Adidas,
+1728,C0056,T-shirt,Apparel,Nike,Email
+1729,C0214,Backpack,Accessories,H&M,Affiliate
+1730,C0014,Cap,Accessories,Zara,Affiliate
+1731,C0028,Backpack,Accessories,Nike,Email
+1732,C0078,T-shirt,Apparel,H&M,Affiliate
+1733,C0216,T-shirt,Apparel,Zara,Search
+1734,C0154,Socks,Apparel,Puma,Affiliate
+1735,C0014,T-shirt,Apparel,Zara,Social Media
+1736,C0187,Cap,Accessories,Adidas,
+1737,C0007,Jacket,Apparel,Adidas,Referral
+1738,C0003,Cap,Accessories,Puma,Search
+1739,C0111,Cap,Accessories,Nike,Social Media
+1740,C0238,Socks,Apparel,H&M,
+1741,C0239,Socks,Apparel,Zara,Email
+1742,C0274,T-shirt,Apparel,Adidas,Search
+1743,C0294,Sneakers,Footwear,Nike,Referral
+1744,C0227,Sneakers,Footwear,Puma,
+1745,C0015,Socks,Apparel,Adidas,Referral
+1746,C0192,T-shirt,Apparel,Puma,Email
+1747,C0119,Sneakers,Footwear,Zara,Email
+1748,C0028,T-shirt,Apparel,H&M,Search
+1749,C0202,T-shirt,Apparel,Adidas,Affiliate
+1750,C0039,T-shirt,Apparel,Adidas,Email
+1751,C0273,Jeans,Apparel,Zara,
+1752,C0231,Cap,Accessories,Nike,Affiliate
+1753,C0086,T-shirt,Apparel,H&M,Social Media
+1754,C0126,Jeans,Apparel,Adidas,Referral
+1755,C0025,Socks,Apparel,H&M,Affiliate
+1756,C0145,Sneakers,Footwear,Adidas,Referral
+1757,C0013,Cap,Accessories,H&M,Affiliate
+1758,C0212,Jacket,Apparel,Puma,Social Media
+1759,C0025,Sneakers,Footwear,Adidas,Email
+1760,C0068,Cap,Accessories,H&M,Social Media
+1761,C0067,Jacket,Apparel,Nike,Email
+1762,C0233,Sneakers,Footwear,Puma,Email
+1763,C0109,Cap,Accessories,Puma,Referral
+1764,C0146,Sneakers,Footwear,Nike,
+1765,C0111,Sneakers,Footwear,H&M,Social Media
+1766,C0228,Jacket,Apparel,Zara,Affiliate
+1767,C0111,Sneakers,Footwear,Nike,Social Media
+1768,C0034,Sneakers,Footwear,H&M,Referral
+1769,C0111,Jacket,Apparel,Nike,Email
+1770,C0264,Socks,Apparel,Nike,Referral
+1771,C0236,T-shirt,Apparel,Adidas,Search
+1772,C0083,Backpack,Accessories,H&M,Search
+1773,C0042,Jeans,Apparel,Zara,Affiliate
+1774,C0101,Backpack,Accessories,Adidas,Referral
+1775,C0006,Backpack,Accessories,Nike,Affiliate
+1776,C0180,Cap,Accessories,Nike,Affiliate
+1777,C0282,T-shirt,Apparel,Nike,Search
+1778,C0226,Cap,Accessories,H&M,Affiliate
+1779,C0229,T-shirt,Apparel,H&M,Search
+1780,C0289,Jacket,Apparel,Adidas,Email
+1781,C0150,Jacket,Apparel,Zara,Referral
+1782,C0277,T-shirt,Apparel,Adidas,Affiliate
+1783,C0198,Sneakers,Footwear,Puma,Search
+1784,C0070,Socks,Apparel,Nike,Social Media
+1785,C0112,Sneakers,Footwear,Nike,Affiliate
+1786,C0004,Socks,Apparel,Nike,
+1787,C0095,Cap,Accessories,Adidas,Email
+1788,C0152,Socks,Apparel,Adidas,Email
+1789,C0137,Cap,Accessories,Nike,Social Media
+1790,C0247,Jacket,Apparel,Adidas,Search
+1791,C0243,Backpack,Accessories,H&M,Affiliate
+1792,C0031,Jacket,Apparel,H&M,Search
+1793,C0040,Jacket,Apparel,Adidas,Email
+1794,C0229,Backpack,Accessories,Nike,Search
+1795,C0036,Socks,Apparel,Adidas,Email
+1796,C0223,Socks,Apparel,Adidas,Search
+1797,C0006,Cap,Accessories,Adidas,Social Media
+1798,C0220,Sneakers,Footwear,Puma,Referral
+1799,C0075,Cap,Accessories,H&M,Social Media
+1800,C0004,Sneakers,Footwear,Zara,Social Media
+1801,C0134,Jacket,Apparel,Zara,Referral
+1802,C0118,Backpack,Accessories,Puma,Referral
+1803,C0094,Jacket,Apparel,Adidas,Affiliate
+1804,C0062,T-shirt,Apparel,Puma,Affiliate
+1805,C0194,Socks,Apparel,Puma,Social Media
+1806,C0203,Sneakers,Footwear,Nike,Social Media
+1807,C0026,Cap,Accessories,H&M,Email
+1808,C0173,Backpack,Accessories,Zara,Email
+1809,C0133,Sneakers,Footwear,Adidas,Affiliate
+1810,C0118,Cap,Accessories,Zara,
+1811,C0275,Socks,Apparel,Zara,
+1812,C0212,Jacket,Apparel,H&M,Affiliate
+1813,C0225,Socks,Apparel,Zara,Email
+1814,C0020,Jeans,Apparel,Zara,Email
+1815,C0113,T-shirt,Apparel,Puma,
+1816,C0140,Jeans,Apparel,H&M,Search
+1817,C0047,Backpack,Accessories,Nike,Search
+1818,C0001,Sneakers,Footwear,Adidas,Email
+1819,C0090,Backpack,Accessories,Zara,Search
+1820,C0142,Jacket,Apparel,Adidas,Referral
+1821,C0038,Cap,Accessories,Nike,Affiliate
+1822,C0293,Socks,Apparel,Adidas,Affiliate
+1823,C0139,Jeans,Apparel,Nike,Email
+1824,C0259,Jeans,Apparel,Puma,Social Media
+1825,C0161,Jacket,Apparel,Zara,
+1826,C0178,Jeans,Apparel,Nike,Email
+1827,C0010,Jacket,Apparel,Adidas,Search
+1828,C0261,Backpack,Accessories,Zara,
+1829,C0138,Socks,Apparel,Puma,Social Media
+1830,C0172,Sneakers,Footwear,Zara,Search
+1831,C0013,Cap,Accessories,Nike,Referral
+1832,C0168,Sneakers,Footwear,Puma,Search
+1833,C0130,Backpack,Accessories,Adidas,Referral
+1834,C0084,Cap,Accessories,Puma,
+1835,C0101,Jeans,Apparel,Puma,Referral
+1836,C0273,T-shirt,Apparel,H&M,
+1837,C0265,Backpack,Accessories,Puma,
+1838,C0038,Backpack,Accessories,Puma,
+1839,C0094,Socks,Apparel,Zara,
+1840,C0095,Sneakers,Footwear,Adidas,
+1841,C0069,Backpack,Accessories,Zara,Search
+1842,C0236,Backpack,Accessories,Zara,
+1843,C0137,Jeans,Apparel,Nike,Search
+1844,C0076,Jeans,Apparel,Zara,
+1845,C0035,Cap,Accessories,H&M,Referral
+1846,C0001,Jacket,Apparel,H&M,
+1847,C0296,Jacket,Apparel,Nike,Social Media
+1848,C0060,T-shirt,Apparel,Adidas,
+1849,C0267,Jacket,Apparel,Adidas,
+1850,C0229,Socks,Apparel,Zara,Referral
+1851,C0270,T-shirt,Apparel,Zara,Affiliate
+1852,C0286,Cap,Accessories,Zara,Referral
+1853,C0291,Jeans,Apparel,Adidas,Social Media
+1854,C0213,Jacket,Apparel,Puma,Affiliate
+1855,C0165,Sneakers,Footwear,H&M,Email
+1856,C0005,Jeans,Apparel,Puma,Email
+1857,C0078,Socks,Apparel,Puma,Social Media
+1858,C0062,Jeans,Apparel,Adidas,Referral
+1859,C0132,Socks,Apparel,Puma,Search
+1860,C0089,Socks,Apparel,Nike,Social Media
+1861,C0237,Socks,Apparel,Zara,Affiliate
+1862,C0042,Cap,Accessories,Nike,Affiliate
+1863,C0089,Socks,Apparel,H&M,
+1864,C0296,Socks,Apparel,Zara,Email
+1865,C0295,Sneakers,Footwear,Puma,Affiliate
+1866,C0104,T-shirt,Apparel,H&M,Social Media
+1867,C0014,Backpack,Accessories,Zara,Affiliate
+1868,C0288,T-shirt,Apparel,Puma,Social Media
+1869,C0179,Socks,Apparel,Nike,Search
+1870,C0125,Sneakers,Footwear,Zara,
+1871,C0023,Jeans,Apparel,Puma,Email
+1872,C0063,Sneakers,Footwear,Nike,Affiliate
+1873,C0143,Socks,Apparel,H&M,Social Media
+1874,C0153,Sneakers,Footwear,H&M,Referral
+1875,C0145,Jacket,Apparel,H&M,Email
+1876,C0225,Sneakers,Footwear,H&M,Search
+1877,C0104,Socks,Apparel,Adidas,Social Media
+1878,C0104,Cap,Accessories,Zara,
+1879,C0039,Jacket,Apparel,Zara,
+1880,C0198,Sneakers,Footwear,Adidas,Search
+1881,C0134,Backpack,Accessories,Puma,Search
+1882,C0067,Backpack,Accessories,Puma,
+1883,C0179,Sneakers,Footwear,H&M,Affiliate
+1884,C0042,Cap,Accessories,Nike,Affiliate
+1885,C0015,Jeans,Apparel,Puma,Social Media
+1886,C0111,Socks,Apparel,Nike,Referral
+1887,C0157,Backpack,Accessories,Zara,Social Media
+1888,C0289,Jeans,Apparel,Nike,Referral
+1889,C0231,Sneakers,Footwear,Zara,Search
+1890,C0157,Jeans,Apparel,Adidas,Email
+1891,C0038,Jacket,Apparel,Adidas,Social Media
+1892,C0097,T-shirt,Apparel,H&M,Social Media
+1893,C0289,Backpack,Accessories,Puma,Referral
+1894,C0254,Sneakers,Footwear,H&M,Search
+1895,C0196,Socks,Apparel,Zara,Search
+1896,C0086,Cap,Accessories,H&M,Referral
+1897,C0010,Jacket,Apparel,Nike,Search
+1898,C0005,Sneakers,Footwear,Zara,
+1899,C0123,Socks,Apparel,Adidas,Affiliate
+1900,C0118,Cap,Accessories,Puma,
+1901,C0294,Cap,Accessories,Zara,Email
+1902,C0159,Sneakers,Footwear,Zara,Social Media
+1903,C0228,Jacket,Apparel,Nike,Email
+1904,C0216,Jeans,Apparel,Puma,Social Media
+1905,C0184,Jeans,Apparel,Adidas,Affiliate
+1906,C0015,Cap,Accessories,Zara,Search
+1907,C0157,Jeans,Apparel,Zara,
+1908,C0136,T-shirt,Apparel,Nike,Referral
+1909,C0261,Cap,Accessories,H&M,
+1910,C0157,Cap,Accessories,Adidas,Affiliate
+1911,C0047,Socks,Apparel,Puma,Email
+1912,C0173,Jeans,Apparel,Zara,Referral
+1913,C0130,Jacket,Apparel,Zara,Search
+1914,C0095,Cap,Accessories,Adidas,Affiliate
+1915,C0115,Jacket,Apparel,H&M,Referral
+1916,C0243,T-shirt,Apparel,Zara,Affiliate
+1917,C0292,Socks,Apparel,Adidas,Affiliate
+1918,C0282,Sneakers,Footwear,Nike,Search
+1919,C0299,Jacket,Apparel,H&M,Social Media
+1920,C0283,Cap,Accessories,Puma,Referral
+1921,C0069,T-shirt,Apparel,Zara,Search
+1922,C0148,Backpack,Accessories,Adidas,Affiliate
+1923,C0011,T-shirt,Apparel,Nike,Search
+1924,C0254,T-shirt,Apparel,Puma,Social Media
+1925,C0038,Socks,Apparel,Adidas,
+1926,C0134,Sneakers,Footwear,Adidas,Referral
+1927,C0200,Backpack,Accessories,Puma,Social Media
+1928,C0023,Jeans,Apparel,Nike,Email
+1929,C0218,Jeans,Apparel,Nike,Referral
+1930,C0141,Jacket,Apparel,H&M,Social Media
+1931,C0104,T-shirt,Apparel,Zara,Affiliate
+1932,C0210,Socks,Apparel,Puma,Referral
+1933,C0111,Socks,Apparel,Puma,Referral
+1934,C0104,Jeans,Apparel,Puma,Search
+1935,C0171,Jacket,Apparel,Nike,Affiliate
+1936,C0133,Jacket,Apparel,Zara,Email
+1937,C0293,Jacket,Apparel,H&M,
+1938,C0127,Backpack,Accessories,Adidas,Social Media
+1939,C0106,Sneakers,Footwear,Adidas,Search
+1940,C0092,Backpack,Accessories,Puma,Social Media
+1941,C0287,Cap,Accessories,Zara,Email
+1942,C0051,Cap,Accessories,Nike,Email
+1943,C0029,Sneakers,Footwear,Zara,Referral
+1944,C0296,Jeans,Apparel,Zara,Email
+1945,C0297,Sneakers,Footwear,Nike,Social Media
+1946,C0214,Socks,Apparel,Puma,Affiliate
+1947,C0267,Cap,Accessories,Zara,Affiliate
+1948,C0257,T-shirt,Apparel,Adidas,Referral
+1949,C0101,T-shirt,Apparel,Nike,
+1950,C0110,Jeans,Apparel,H&M,Social Media
+1951,C0182,Socks,Apparel,Puma,Social Media
+1952,C0001,Backpack,Accessories,Nike,Email
+1953,C0055,Socks,Apparel,H&M,Social Media
+1954,C0149,T-shirt,Apparel,H&M,Search
+1955,C0137,T-shirt,Apparel,Zara,
+1956,C0202,Cap,Accessories,Zara,Email
+1957,C0117,Socks,Apparel,Zara,Search
+1958,C0154,Socks,Apparel,Nike,Referral
+1959,C0291,T-shirt,Apparel,Nike,Affiliate
+1960,C0063,Backpack,Accessories,Puma,Referral
+1961,C0244,Jeans,Apparel,Zara,Affiliate
+1962,C0025,Jacket,Apparel,H&M,Referral
+1963,C0090,Jeans,Apparel,Adidas,Social Media
+1964,C0075,Socks,Apparel,Puma,Search
+1965,C0294,Jeans,Apparel,Nike,Affiliate
+1966,C0210,T-shirt,Apparel,Puma,Email
+1967,C0017,T-shirt,Apparel,Puma,Search
+1968,C0128,Socks,Apparel,Puma,Email
+1969,C0251,Socks,Apparel,Puma,Search
+1970,C0179,Jacket,Apparel,Adidas,Search
+1971,C0182,Jacket,Apparel,Zara,Referral
+1972,C0152,Cap,Accessories,H&M,Affiliate
+1973,C0025,Socks,Apparel,Puma,Affiliate
+1974,C0180,Backpack,Accessories,Puma,Search
+1975,C0198,Jeans,Apparel,Puma,Social Media
+1976,C0161,Socks,Apparel,Zara,Social Media
+1977,C0177,Sneakers,Footwear,Nike,Email
+1978,C0285,Cap,Accessories,Nike,Email
+1979,C0063,Sneakers,Footwear,Adidas,Referral
+1980,C0150,T-shirt,Apparel,Nike,Search
+1981,C0154,Jacket,Apparel,Puma,Email
+1982,C0156,Jeans,Apparel,Puma,Email
+1983,C0049,Socks,Apparel,Puma,
+1984,C0084,Sneakers,Footwear,Adidas,Search
+1985,C0177,Jeans,Apparel,Puma,Referral
+1986,C0148,T-shirt,Apparel,Nike,Email
+1987,C0118,Jacket,Apparel,Zara,Referral
+1988,C0063,Backpack,Accessories,Zara,Affiliate
+1989,C0189,Cap,Accessories,H&M,Referral
+1990,C0049,Jeans,Apparel,Nike,Social Media
+1991,C0257,Jeans,Apparel,Puma,Social Media
+1992,C0224,Backpack,Accessories,Zara,Referral
+1993,C0141,Jeans,Apparel,Nike,Social Media
+1994,C0215,T-shirt,Apparel,Zara,Affiliate
+1995,C0211,T-shirt,Apparel,Puma,Search
+1996,C0032,Backpack,Accessories,Zara,Social Media
+1997,C0158,Cap,Accessories,H&M,Social Media
+1998,C0285,Socks,Apparel,H&M,Referral
+1999,C0286,Sneakers,Footwear,Zara,Affiliate
+2000,C0144,Socks,Apparel,Nike,Search

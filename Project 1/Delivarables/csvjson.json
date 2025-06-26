@@ -1,0 +1,8002 @@
+[
+  {
+    "order_id": 1001,
+    "customer_id": "C0103",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "H&M",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1002,
+    "customer_id": "C0271",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Adidas",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1003,
+    "customer_id": "C0107",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1004,
+    "customer_id": "C0072",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Puma",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1005,
+    "customer_id": "C0189",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Adidas",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1006,
+    "customer_id": "C0021",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1007,
+    "customer_id": "C0103",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Adidas",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1008,
+    "customer_id": "C0122",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "H&M",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1009,
+    "customer_id": "C0215",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Nike",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1010,
+    "customer_id": "C0088",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1011,
+    "customer_id": "C0100",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1012,
+    "customer_id": "C0152",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Zara",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1013,
+    "customer_id": "C0131",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Zara",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1014,
+    "customer_id": "C0150",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "H&M",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1015,
+    "customer_id": "C0258",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Zara",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1016,
+    "customer_id": "C0294",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1017,
+    "customer_id": "C0192",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1018,
+    "customer_id": "C0277",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1019,
+    "customer_id": "C0161",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1020,
+    "customer_id": "C0022",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1021,
+    "customer_id": "C0253",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1022,
+    "customer_id": "C0236",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "H&M",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1023,
+    "customer_id": "C0049",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "H&M",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1024,
+    "customer_id": "C0059",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Adidas",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1025,
+    "customer_id": "C0170",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Nike",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1026,
+    "customer_id": "C0188",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Adidas",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1027,
+    "customer_id": "C0271",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Puma",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1028,
+    "customer_id": "C0190",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1029,
+    "customer_id": "C0175",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1030,
+    "customer_id": "C0051",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1031,
+    "customer_id": "C0055",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1032,
+    "customer_id": "C0244",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1033,
+    "customer_id": "C0131",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Nike",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1034,
+    "customer_id": "C0135",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1035,
+    "customer_id": "C0021",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1036,
+    "customer_id": "C0167",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1037,
+    "customer_id": "C0274",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1038,
+    "customer_id": "C0089",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1039,
+    "customer_id": "C0014",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Nike",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1040,
+    "customer_id": "C0242",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1041,
+    "customer_id": "C0265",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "H&M",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1042,
+    "customer_id": "C0053",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1043,
+    "customer_id": "C0092",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1044,
+    "customer_id": "C0264",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Adidas",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1045,
+    "customer_id": "C0035",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1046,
+    "customer_id": "C0206",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1047,
+    "customer_id": "C0081",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1048,
+    "customer_id": "C0050",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Nike",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1049,
+    "customer_id": "C0002",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Nike",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1050,
+    "customer_id": "C0054",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1051,
+    "customer_id": "C0106",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1052,
+    "customer_id": "C0260",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1053,
+    "customer_id": "C0191",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Nike",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1054,
+    "customer_id": "C0218",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "H&M",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1055,
+    "customer_id": "C0044",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "H&M",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1056,
+    "customer_id": "C0162",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Nike",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1057,
+    "customer_id": "C0202",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Puma",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1058,
+    "customer_id": "C0270",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1059,
+    "customer_id": "C0271",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1060,
+    "customer_id": "C0215",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1061,
+    "customer_id": "C0252",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Zara",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1062,
+    "customer_id": "C0190",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1063,
+    "customer_id": "C0296",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Adidas",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1064,
+    "customer_id": "C0213",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1065,
+    "customer_id": "C0208",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1066,
+    "customer_id": "C0237",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Nike",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1067,
+    "customer_id": "C0053",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1068,
+    "customer_id": "C0280",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "H&M",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1069,
+    "customer_id": "C0217",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1070,
+    "customer_id": "C0252",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1071,
+    "customer_id": "C0188",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1072,
+    "customer_id": "C0041",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1073,
+    "customer_id": "C0157",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Nike",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1074,
+    "customer_id": "C0015",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1075,
+    "customer_id": "C0065",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Adidas",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1076,
+    "customer_id": "C0009",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1077,
+    "customer_id": "C0129",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1078,
+    "customer_id": "C0136",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1079,
+    "customer_id": "C0063",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "H&M",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1080,
+    "customer_id": "C0139",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Nike",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1081,
+    "customer_id": "C0081",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1082,
+    "customer_id": "C0163",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1083,
+    "customer_id": "C0289",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1084,
+    "customer_id": "C0261",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1085,
+    "customer_id": "C0231",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Zara",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1086,
+    "customer_id": "C0041",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Adidas",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1087,
+    "customer_id": "C0028",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1088,
+    "customer_id": "C0135",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Puma",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1089,
+    "customer_id": "C0201",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Adidas",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1090,
+    "customer_id": "C0268",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1091,
+    "customer_id": "C0033",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1092,
+    "customer_id": "C0048",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1093,
+    "customer_id": "C0062",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1094,
+    "customer_id": "C0216",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1095,
+    "customer_id": "C0293",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1096,
+    "customer_id": "C0099",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Zara",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1097,
+    "customer_id": "C0172",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "H&M",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1098,
+    "customer_id": "C0214",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1099,
+    "customer_id": "C0035",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Adidas",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1100,
+    "customer_id": "C0227",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1101,
+    "customer_id": "C0101",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1102,
+    "customer_id": "C0131",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "H&M",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1103,
+    "customer_id": "C0257",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1104,
+    "customer_id": "C0005",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "H&M",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1105,
+    "customer_id": "C0218",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Zara",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1106,
+    "customer_id": "C0255",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1107,
+    "customer_id": "C0283",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1108,
+    "customer_id": "C0207",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Adidas",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1109,
+    "customer_id": "C0015",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Zara",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1110,
+    "customer_id": "C0042",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Puma",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1111,
+    "customer_id": "C0179",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Puma",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1112,
+    "customer_id": "C0063",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1113,
+    "customer_id": "C0231",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1114,
+    "customer_id": "C0241",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Puma",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1115,
+    "customer_id": "C0052",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "H&M",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1116,
+    "customer_id": "C0096",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1117,
+    "customer_id": "C0222",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Nike",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1118,
+    "customer_id": "C0231",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1119,
+    "customer_id": "C0237",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Puma",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1120,
+    "customer_id": "C0143",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1121,
+    "customer_id": "C0171",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1122,
+    "customer_id": "C0029",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1123,
+    "customer_id": "C0036",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1124,
+    "customer_id": "C0013",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Puma",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1125,
+    "customer_id": "C0160",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Adidas",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1126,
+    "customer_id": "C0187",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "H&M",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1127,
+    "customer_id": "C0243",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Zara",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1128,
+    "customer_id": "C0086",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1129,
+    "customer_id": "C0284",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Zara",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1130,
+    "customer_id": "C0066",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Puma",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1131,
+    "customer_id": "C0170",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1132,
+    "customer_id": "C0045",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1133,
+    "customer_id": "C0062",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Puma",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1134,
+    "customer_id": "C0134",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1135,
+    "customer_id": "C0284",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1136,
+    "customer_id": "C0028",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Adidas",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1137,
+    "customer_id": "C0108",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Adidas",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1138,
+    "customer_id": "C0044",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Nike",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1139,
+    "customer_id": "C0286",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1140,
+    "customer_id": "C0128",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Zara",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1141,
+    "customer_id": "C0231",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1142,
+    "customer_id": "C0190",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1143,
+    "customer_id": "C0225",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Puma",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1144,
+    "customer_id": "C0283",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Zara",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1145,
+    "customer_id": "C0121",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1146,
+    "customer_id": "C0116",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1147,
+    "customer_id": "C0233",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1148,
+    "customer_id": "C0259",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Adidas",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1149,
+    "customer_id": "C0198",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "H&M",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1150,
+    "customer_id": "C0137",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1151,
+    "customer_id": "C0165",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1152,
+    "customer_id": "C0225",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1153,
+    "customer_id": "C0234",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Zara",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1154,
+    "customer_id": "C0172",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Nike",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1155,
+    "customer_id": "C0152",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1156,
+    "customer_id": "C0160",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "H&M",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1157,
+    "customer_id": "C0096",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1158,
+    "customer_id": "C0233",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1159,
+    "customer_id": "C0180",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "H&M",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1160,
+    "customer_id": "C0113",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "H&M",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1161,
+    "customer_id": "C0052",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Zara",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1162,
+    "customer_id": "C0268",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1163,
+    "customer_id": "C0295",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1164,
+    "customer_id": "C0113",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1165,
+    "customer_id": "C0101",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1166,
+    "customer_id": "C0113",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1167,
+    "customer_id": "C0081",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Nike",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1168,
+    "customer_id": "C0187",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1169,
+    "customer_id": "C0113",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1170,
+    "customer_id": "C0002",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Nike",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1171,
+    "customer_id": "C0130",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1172,
+    "customer_id": "C0220",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1173,
+    "customer_id": "C0054",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "H&M",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1174,
+    "customer_id": "C0224",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Zara",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1175,
+    "customer_id": "C0225",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Adidas",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1176,
+    "customer_id": "C0126",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Puma",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1177,
+    "customer_id": "C0130",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1178,
+    "customer_id": "C0053",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Zara",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1179,
+    "customer_id": "C0172",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Adidas",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1180,
+    "customer_id": "C0218",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1181,
+    "customer_id": "C0160",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Adidas",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1182,
+    "customer_id": "C0198",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1183,
+    "customer_id": "C0247",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1184,
+    "customer_id": "C0203",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Adidas",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1185,
+    "customer_id": "C0184",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Nike",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1186,
+    "customer_id": "C0123",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1187,
+    "customer_id": "C0255",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1188,
+    "customer_id": "C0294",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Nike",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1189,
+    "customer_id": "C0280",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Puma",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1190,
+    "customer_id": "C0098",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1191,
+    "customer_id": "C0198",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1192,
+    "customer_id": "C0240",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Nike",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1193,
+    "customer_id": "C0144",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1194,
+    "customer_id": "C0097",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Nike",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1195,
+    "customer_id": "C0201",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "H&M",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1196,
+    "customer_id": "C0124",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Puma",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1197,
+    "customer_id": "C0187",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1198,
+    "customer_id": "C0259",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1199,
+    "customer_id": "C0148",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Adidas",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1200,
+    "customer_id": "C0252",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Nike",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1201,
+    "customer_id": "C0147",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1202,
+    "customer_id": "C0148",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1203,
+    "customer_id": "C0199",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Nike",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1204,
+    "customer_id": "C0128",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1205,
+    "customer_id": "C0039",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1206,
+    "customer_id": "C0129",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1207,
+    "customer_id": "C0267",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "H&M",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1208,
+    "customer_id": "C0151",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Adidas",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1209,
+    "customer_id": "C0298",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1210,
+    "customer_id": "C0099",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Adidas",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1211,
+    "customer_id": "C0263",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1212,
+    "customer_id": "C0252",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Nike",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1213,
+    "customer_id": "C0144",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Nike",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1214,
+    "customer_id": "C0112",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1215,
+    "customer_id": "C0060",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Zara",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1216,
+    "customer_id": "C0002",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Puma",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1217,
+    "customer_id": "C0254",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1218,
+    "customer_id": "C0140",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Adidas",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1219,
+    "customer_id": "C0037",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Adidas",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1220,
+    "customer_id": "C0160",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1221,
+    "customer_id": "C0009",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1222,
+    "customer_id": "C0233",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1223,
+    "customer_id": "C0099",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1224,
+    "customer_id": "C0147",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1225,
+    "customer_id": "C0208",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1226,
+    "customer_id": "C0131",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1227,
+    "customer_id": "C0152",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Nike",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1228,
+    "customer_id": "C0054",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Puma",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1229,
+    "customer_id": "C0120",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1230,
+    "customer_id": "C0161",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1231,
+    "customer_id": "C0116",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "H&M",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1232,
+    "customer_id": "C0075",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Nike",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1233,
+    "customer_id": "C0113",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Zara",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1234,
+    "customer_id": "C0104",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1235,
+    "customer_id": "C0254",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1236,
+    "customer_id": "C0227",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1237,
+    "customer_id": "C0112",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Zara",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1238,
+    "customer_id": "C0099",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Puma",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1239,
+    "customer_id": "C0153",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "H&M",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1240,
+    "customer_id": "C0194",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Adidas",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1241,
+    "customer_id": "C0163",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1242,
+    "customer_id": "C0208",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Zara",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1243,
+    "customer_id": "C0169",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1244,
+    "customer_id": "C0161",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1245,
+    "customer_id": "C0068",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Puma",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1246,
+    "customer_id": "C0289",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Adidas",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1247,
+    "customer_id": "C0277",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1248,
+    "customer_id": "C0135",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1249,
+    "customer_id": "C0195",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1250,
+    "customer_id": "C0128",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Puma",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1251,
+    "customer_id": "C0033",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1252,
+    "customer_id": "C0176",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1253,
+    "customer_id": "C0022",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1254,
+    "customer_id": "C0238",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1255,
+    "customer_id": "C0158",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1256,
+    "customer_id": "C0038",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "H&M",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1257,
+    "customer_id": "C0230",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "H&M",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1258,
+    "customer_id": "C0051",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1259,
+    "customer_id": "C0264",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1260,
+    "customer_id": "C0283",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1261,
+    "customer_id": "C0027",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1262,
+    "customer_id": "C0226",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1263,
+    "customer_id": "C0277",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Nike",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1264,
+    "customer_id": "C0286",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Zara",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1265,
+    "customer_id": "C0097",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1266,
+    "customer_id": "C0284",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Puma",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1267,
+    "customer_id": "C0147",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1268,
+    "customer_id": "C0004",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1269,
+    "customer_id": "C0035",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1270,
+    "customer_id": "C0192",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "H&M",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1271,
+    "customer_id": "C0049",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Zara",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1272,
+    "customer_id": "C0017",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1273,
+    "customer_id": "C0172",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1274,
+    "customer_id": "C0220",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Nike",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1275,
+    "customer_id": "C0158",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1276,
+    "customer_id": "C0046",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Zara",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1277,
+    "customer_id": "C0006",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1278,
+    "customer_id": "C0099",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1279,
+    "customer_id": "C0233",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1280,
+    "customer_id": "C0037",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Zara",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1281,
+    "customer_id": "C0280",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1282,
+    "customer_id": "C0181",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Adidas",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1283,
+    "customer_id": "C0095",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "H&M",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1284,
+    "customer_id": "C0099",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1285,
+    "customer_id": "C0188",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Nike",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1286,
+    "customer_id": "C0116",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1287,
+    "customer_id": "C0191",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1288,
+    "customer_id": "C0253",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1289,
+    "customer_id": "C0161",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1290,
+    "customer_id": "C0256",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "H&M",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1291,
+    "customer_id": "C0128",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Adidas",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1292,
+    "customer_id": "C0018",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Puma",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1293,
+    "customer_id": "C0281",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1294,
+    "customer_id": "C0223",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1295,
+    "customer_id": "C0054",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Nike",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1296,
+    "customer_id": "C0058",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1297,
+    "customer_id": "C0174",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Puma",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1298,
+    "customer_id": "C0280",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1299,
+    "customer_id": "C0114",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1300,
+    "customer_id": "C0288",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Zara",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1301,
+    "customer_id": "C0151",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Adidas",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1302,
+    "customer_id": "C0127",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Puma",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1303,
+    "customer_id": "C0155",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Puma",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1304,
+    "customer_id": "C0273",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1305,
+    "customer_id": "C0104",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1306,
+    "customer_id": "C0299",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Zara",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1307,
+    "customer_id": "C0246",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1308,
+    "customer_id": "C0176",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Zara",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1309,
+    "customer_id": "C0039",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1310,
+    "customer_id": "C0170",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1311,
+    "customer_id": "C0247",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1312,
+    "customer_id": "C0026",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "H&M",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1313,
+    "customer_id": "C0013",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Puma",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1314,
+    "customer_id": "C0036",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1315,
+    "customer_id": "C0173",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Puma",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1316,
+    "customer_id": "C0020",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Zara",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1317,
+    "customer_id": "C0264",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1318,
+    "customer_id": "C0142",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1319,
+    "customer_id": "C0143",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1320,
+    "customer_id": "C0092",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1321,
+    "customer_id": "C0288",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1322,
+    "customer_id": "C0215",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1323,
+    "customer_id": "C0051",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1324,
+    "customer_id": "C0153",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1325,
+    "customer_id": "C0186",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Zara",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1326,
+    "customer_id": "C0063",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1327,
+    "customer_id": "C0190",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1328,
+    "customer_id": "C0125",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Nike",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1329,
+    "customer_id": "C0150",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1330,
+    "customer_id": "C0058",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1331,
+    "customer_id": "C0180",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "H&M",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1332,
+    "customer_id": "C0170",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1333,
+    "customer_id": "C0271",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Zara",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1334,
+    "customer_id": "C0054",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Nike",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1335,
+    "customer_id": "C0101",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1336,
+    "customer_id": "C0264",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Zara",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1337,
+    "customer_id": "C0053",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Puma",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1338,
+    "customer_id": "C0060",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Puma",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1339,
+    "customer_id": "C0108",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Nike",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1340,
+    "customer_id": "C0005",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Nike",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1341,
+    "customer_id": "C0103",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1342,
+    "customer_id": "C0196",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1343,
+    "customer_id": "C0262",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1344,
+    "customer_id": "C0047",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "H&M",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1345,
+    "customer_id": "C0144",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Adidas",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1346,
+    "customer_id": "C0269",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Zara",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1347,
+    "customer_id": "C0124",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1348,
+    "customer_id": "C0106",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Zara",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1349,
+    "customer_id": "C0158",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1350,
+    "customer_id": "C0147",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1351,
+    "customer_id": "C0145",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Zara",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1352,
+    "customer_id": "C0120",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1353,
+    "customer_id": "C0275",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1354,
+    "customer_id": "C0092",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Zara",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1355,
+    "customer_id": "C0058",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1356,
+    "customer_id": "C0229",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1357,
+    "customer_id": "C0117",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1358,
+    "customer_id": "C0279",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1359,
+    "customer_id": "C0127",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1360,
+    "customer_id": "C0129",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1361,
+    "customer_id": "C0058",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Zara",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1362,
+    "customer_id": "C0122",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Puma",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1363,
+    "customer_id": "C0001",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1364,
+    "customer_id": "C0239",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1365,
+    "customer_id": "C0290",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1366,
+    "customer_id": "C0096",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1367,
+    "customer_id": "C0126",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1368,
+    "customer_id": "C0118",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1369,
+    "customer_id": "C0048",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Adidas",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1370,
+    "customer_id": "C0089",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1371,
+    "customer_id": "C0237",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Adidas",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1372,
+    "customer_id": "C0272",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1373,
+    "customer_id": "C0189",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Nike",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1374,
+    "customer_id": "C0192",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Puma",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1375,
+    "customer_id": "C0069",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Nike",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1376,
+    "customer_id": "C0278",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1377,
+    "customer_id": "C0247",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "H&M",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1378,
+    "customer_id": "C0076",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Nike",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1379,
+    "customer_id": "C0154",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1380,
+    "customer_id": "C0144",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1381,
+    "customer_id": "C0086",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1382,
+    "customer_id": "C0185",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1383,
+    "customer_id": "C0285",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Zara",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1384,
+    "customer_id": "C0220",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1385,
+    "customer_id": "C0069",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1386,
+    "customer_id": "C0047",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1387,
+    "customer_id": "C0094",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1388,
+    "customer_id": "C0238",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1389,
+    "customer_id": "C0204",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1390,
+    "customer_id": "C0218",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1391,
+    "customer_id": "C0039",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Zara",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1392,
+    "customer_id": "C0100",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Zara",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1393,
+    "customer_id": "C0289",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1394,
+    "customer_id": "C0254",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1395,
+    "customer_id": "C0222",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1396,
+    "customer_id": "C0023",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "H&M",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1397,
+    "customer_id": "C0250",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1398,
+    "customer_id": "C0010",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Puma",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1399,
+    "customer_id": "C0246",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1400,
+    "customer_id": "C0100",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1401,
+    "customer_id": "C0290",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "H&M",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1402,
+    "customer_id": "C0180",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "H&M",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1403,
+    "customer_id": "C0223",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Adidas",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1404,
+    "customer_id": "C0250",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1405,
+    "customer_id": "C0147",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "H&M",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1406,
+    "customer_id": "C0096",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1407,
+    "customer_id": "C0257",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1408,
+    "customer_id": "C0004",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1409,
+    "customer_id": "C0016",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1410,
+    "customer_id": "C0280",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Nike",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1411,
+    "customer_id": "C0247",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1412,
+    "customer_id": "C0258",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1413,
+    "customer_id": "C0160",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1414,
+    "customer_id": "C0152",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Adidas",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1415,
+    "customer_id": "C0178",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1416,
+    "customer_id": "C0163",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "H&M",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1417,
+    "customer_id": "C0033",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1418,
+    "customer_id": "C0179",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Adidas",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1419,
+    "customer_id": "C0101",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "H&M",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1420,
+    "customer_id": "C0268",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "H&M",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1421,
+    "customer_id": "C0065",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Zara",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1422,
+    "customer_id": "C0168",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1423,
+    "customer_id": "C0043",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Puma",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1424,
+    "customer_id": "C0044",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1425,
+    "customer_id": "C0285",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1426,
+    "customer_id": "C0012",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Puma",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1427,
+    "customer_id": "C0095",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "H&M",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1428,
+    "customer_id": "C0253",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Zara",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1429,
+    "customer_id": "C0242",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1430,
+    "customer_id": "C0035",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1431,
+    "customer_id": "C0215",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Zara",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1432,
+    "customer_id": "C0090",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1433,
+    "customer_id": "C0264",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1434,
+    "customer_id": "C0093",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1435,
+    "customer_id": "C0090",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1436,
+    "customer_id": "C0115",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Puma",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1437,
+    "customer_id": "C0105",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1438,
+    "customer_id": "C0196",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "H&M",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1439,
+    "customer_id": "C0114",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1440,
+    "customer_id": "C0075",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1441,
+    "customer_id": "C0217",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Adidas",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1442,
+    "customer_id": "C0277",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "H&M",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1443,
+    "customer_id": "C0249",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Adidas",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1444,
+    "customer_id": "C0164",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "H&M",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1445,
+    "customer_id": "C0192",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Nike",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1446,
+    "customer_id": "C0227",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Nike",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1447,
+    "customer_id": "C0177",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1448,
+    "customer_id": "C0099",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Nike",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1449,
+    "customer_id": "C0036",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Nike",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1450,
+    "customer_id": "C0096",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Nike",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1451,
+    "customer_id": "C0152",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1452,
+    "customer_id": "C0151",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1453,
+    "customer_id": "C0190",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1454,
+    "customer_id": "C0224",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1455,
+    "customer_id": "C0037",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1456,
+    "customer_id": "C0268",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1457,
+    "customer_id": "C0183",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Adidas",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1458,
+    "customer_id": "C0013",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1459,
+    "customer_id": "C0279",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "H&M",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1460,
+    "customer_id": "C0217",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Zara",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1461,
+    "customer_id": "C0286",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1462,
+    "customer_id": "C0273",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Adidas",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1463,
+    "customer_id": "C0062",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Puma",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1464,
+    "customer_id": "C0084",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1465,
+    "customer_id": "C0217",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1466,
+    "customer_id": "C0187",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1467,
+    "customer_id": "C0019",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "H&M",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1468,
+    "customer_id": "C0177",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1469,
+    "customer_id": "C0100",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "H&M",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1470,
+    "customer_id": "C0233",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1471,
+    "customer_id": "C0076",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Nike",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1472,
+    "customer_id": "C0265",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1473,
+    "customer_id": "C0284",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1474,
+    "customer_id": "C0206",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1475,
+    "customer_id": "C0223",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1476,
+    "customer_id": "C0052",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Nike",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1477,
+    "customer_id": "C0144",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "H&M",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1478,
+    "customer_id": "C0069",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Puma",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1479,
+    "customer_id": "C0099",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1480,
+    "customer_id": "C0025",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1481,
+    "customer_id": "C0053",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "H&M",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1482,
+    "customer_id": "C0151",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Zara",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1483,
+    "customer_id": "C0144",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1484,
+    "customer_id": "C0057",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Adidas",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1485,
+    "customer_id": "C0039",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Zara",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1486,
+    "customer_id": "C0109",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Puma",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1487,
+    "customer_id": "C0181",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1488,
+    "customer_id": "C0042",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1489,
+    "customer_id": "C0186",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1490,
+    "customer_id": "C0223",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1491,
+    "customer_id": "C0122",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1492,
+    "customer_id": "C0133",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1493,
+    "customer_id": "C0163",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1494,
+    "customer_id": "C0215",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "H&M",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1495,
+    "customer_id": "C0221",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1496,
+    "customer_id": "C0235",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Adidas",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1497,
+    "customer_id": "C0146",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1498,
+    "customer_id": "C0239",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Nike",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1499,
+    "customer_id": "C0076",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Nike",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1500,
+    "customer_id": "C0009",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Nike",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1501,
+    "customer_id": "C0074",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Adidas",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1502,
+    "customer_id": "C0253",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Adidas",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1503,
+    "customer_id": "C0230",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1504,
+    "customer_id": "C0007",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1505,
+    "customer_id": "C0174",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1506,
+    "customer_id": "C0141",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Zara",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1507,
+    "customer_id": "C0168",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Nike",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1508,
+    "customer_id": "C0170",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1509,
+    "customer_id": "C0283",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1510,
+    "customer_id": "C0122",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Adidas",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1511,
+    "customer_id": "C0194",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Adidas",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1512,
+    "customer_id": "C0005",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1513,
+    "customer_id": "C0029",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1514,
+    "customer_id": "C0165",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Zara",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1515,
+    "customer_id": "C0136",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1516,
+    "customer_id": "C0145",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1517,
+    "customer_id": "C0217",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1518,
+    "customer_id": "C0132",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "H&M",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1519,
+    "customer_id": "C0292",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1520,
+    "customer_id": "C0070",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1521,
+    "customer_id": "C0252",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Adidas",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1522,
+    "customer_id": "C0275",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Puma",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1523,
+    "customer_id": "C0182",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1524,
+    "customer_id": "C0167",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1525,
+    "customer_id": "C0091",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1526,
+    "customer_id": "C0202",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Nike",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1527,
+    "customer_id": "C0019",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1528,
+    "customer_id": "C0039",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Puma",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1529,
+    "customer_id": "C0126",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1530,
+    "customer_id": "C0173",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Adidas",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1531,
+    "customer_id": "C0141",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1532,
+    "customer_id": "C0242",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1533,
+    "customer_id": "C0220",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Zara",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1534,
+    "customer_id": "C0126",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Zara",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1535,
+    "customer_id": "C0058",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "H&M",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1536,
+    "customer_id": "C0148",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1537,
+    "customer_id": "C0001",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Puma",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1538,
+    "customer_id": "C0190",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1539,
+    "customer_id": "C0191",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1540,
+    "customer_id": "C0117",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Puma",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1541,
+    "customer_id": "C0134",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1542,
+    "customer_id": "C0058",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Nike",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1543,
+    "customer_id": "C0044",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Zara",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1544,
+    "customer_id": "C0173",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1545,
+    "customer_id": "C0160",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1546,
+    "customer_id": "C0173",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1547,
+    "customer_id": "C0149",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1548,
+    "customer_id": "C0080",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "H&M",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1549,
+    "customer_id": "C0213",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1550,
+    "customer_id": "C0203",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Puma",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1551,
+    "customer_id": "C0252",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Puma",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1552,
+    "customer_id": "C0229",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1553,
+    "customer_id": "C0164",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1554,
+    "customer_id": "C0227",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1555,
+    "customer_id": "C0147",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1556,
+    "customer_id": "C0020",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Adidas",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1557,
+    "customer_id": "C0047",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1558,
+    "customer_id": "C0233",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1559,
+    "customer_id": "C0014",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "H&M",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1560,
+    "customer_id": "C0143",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Zara",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1561,
+    "customer_id": "C0001",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Puma",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1562,
+    "customer_id": "C0054",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Adidas",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1563,
+    "customer_id": "C0259",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1564,
+    "customer_id": "C0144",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Zara",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1565,
+    "customer_id": "C0012",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1566,
+    "customer_id": "C0224",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Puma",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1567,
+    "customer_id": "C0272",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1568,
+    "customer_id": "C0156",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1569,
+    "customer_id": "C0008",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1570,
+    "customer_id": "C0122",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1571,
+    "customer_id": "C0164",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Puma",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1572,
+    "customer_id": "C0090",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1573,
+    "customer_id": "C0136",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1574,
+    "customer_id": "C0186",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Nike",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1575,
+    "customer_id": "C0178",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1576,
+    "customer_id": "C0028",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1577,
+    "customer_id": "C0220",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1578,
+    "customer_id": "C0041",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Nike",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1579,
+    "customer_id": "C0228",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1580,
+    "customer_id": "C0192",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "H&M",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1581,
+    "customer_id": "C0145",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1582,
+    "customer_id": "C0201",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1583,
+    "customer_id": "C0212",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Zara",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1584,
+    "customer_id": "C0220",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1585,
+    "customer_id": "C0240",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Adidas",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1586,
+    "customer_id": "C0046",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Adidas",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1587,
+    "customer_id": "C0035",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1588,
+    "customer_id": "C0253",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Nike",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1589,
+    "customer_id": "C0082",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Adidas",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1590,
+    "customer_id": "C0256",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "H&M",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1591,
+    "customer_id": "C0197",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Puma",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1592,
+    "customer_id": "C0010",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Puma",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1593,
+    "customer_id": "C0286",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Adidas",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1594,
+    "customer_id": "C0242",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1595,
+    "customer_id": "C0251",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1596,
+    "customer_id": "C0005",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1597,
+    "customer_id": "C0119",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1598,
+    "customer_id": "C0289",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Zara",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1599,
+    "customer_id": "C0065",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Adidas",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1600,
+    "customer_id": "C0146",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1601,
+    "customer_id": "C0224",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1602,
+    "customer_id": "C0239",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1603,
+    "customer_id": "C0177",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1604,
+    "customer_id": "C0267",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1605,
+    "customer_id": "C0282",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Adidas",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1606,
+    "customer_id": "C0063",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1607,
+    "customer_id": "C0217",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Nike",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1608,
+    "customer_id": "C0283",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1609,
+    "customer_id": "C0177",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1610,
+    "customer_id": "C0098",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Puma",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1611,
+    "customer_id": "C0105",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Puma",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1612,
+    "customer_id": "C0099",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "H&M",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1613,
+    "customer_id": "C0006",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1614,
+    "customer_id": "C0197",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Zara",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1615,
+    "customer_id": "C0133",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "H&M",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1616,
+    "customer_id": "C0259",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Zara",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1617,
+    "customer_id": "C0023",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Zara",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1618,
+    "customer_id": "C0053",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1619,
+    "customer_id": "C0165",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1620,
+    "customer_id": "C0202",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1621,
+    "customer_id": "C0083",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "H&M",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1622,
+    "customer_id": "C0145",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1623,
+    "customer_id": "C0085",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1624,
+    "customer_id": "C0078",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1625,
+    "customer_id": "C0001",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1626,
+    "customer_id": "C0051",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1627,
+    "customer_id": "C0173",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1628,
+    "customer_id": "C0205",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1629,
+    "customer_id": "C0260",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Zara",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1630,
+    "customer_id": "C0288",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1631,
+    "customer_id": "C0034",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Zara",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1632,
+    "customer_id": "C0095",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1633,
+    "customer_id": "C0072",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Puma",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1634,
+    "customer_id": "C0039",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1635,
+    "customer_id": "C0154",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Adidas",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1636,
+    "customer_id": "C0250",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Zara",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1637,
+    "customer_id": "C0162",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Zara",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1638,
+    "customer_id": "C0118",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Adidas",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1639,
+    "customer_id": "C0259",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1640,
+    "customer_id": "C0268",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Puma",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1641,
+    "customer_id": "C0054",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1642,
+    "customer_id": "C0236",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1643,
+    "customer_id": "C0222",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1644,
+    "customer_id": "C0251",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1645,
+    "customer_id": "C0112",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1646,
+    "customer_id": "C0255",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1647,
+    "customer_id": "C0207",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Zara",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1648,
+    "customer_id": "C0229",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1649,
+    "customer_id": "C0066",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "H&M",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1650,
+    "customer_id": "C0075",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Zara",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1651,
+    "customer_id": "C0103",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1652,
+    "customer_id": "C0192",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1653,
+    "customer_id": "C0252",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Zara",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1654,
+    "customer_id": "C0226",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Nike",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1655,
+    "customer_id": "C0294",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1656,
+    "customer_id": "C0098",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Adidas",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1657,
+    "customer_id": "C0286",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1658,
+    "customer_id": "C0249",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Nike",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1659,
+    "customer_id": "C0166",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1660,
+    "customer_id": "C0030",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Zara",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1661,
+    "customer_id": "C0247",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1662,
+    "customer_id": "C0106",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Puma",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1663,
+    "customer_id": "C0051",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1664,
+    "customer_id": "C0081",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1665,
+    "customer_id": "C0133",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1666,
+    "customer_id": "C0285",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Nike",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1667,
+    "customer_id": "C0138",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1668,
+    "customer_id": "C0184",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1669,
+    "customer_id": "C0273",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Zara",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1670,
+    "customer_id": "C0069",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1671,
+    "customer_id": "C0034",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Zara",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1672,
+    "customer_id": "C0262",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1673,
+    "customer_id": "C0053",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1674,
+    "customer_id": "C0205",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1675,
+    "customer_id": "C0126",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1676,
+    "customer_id": "C0235",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1677,
+    "customer_id": "C0043",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Zara",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1678,
+    "customer_id": "C0240",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "H&M",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1679,
+    "customer_id": "C0111",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Adidas",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1680,
+    "customer_id": "C0249",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1681,
+    "customer_id": "C0151",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1682,
+    "customer_id": "C0183",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "H&M",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1683,
+    "customer_id": "C0095",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1684,
+    "customer_id": "C0008",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1685,
+    "customer_id": "C0184",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1686,
+    "customer_id": "C0281",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1687,
+    "customer_id": "C0195",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Puma",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1688,
+    "customer_id": "C0195",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "H&M",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1689,
+    "customer_id": "C0155",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1690,
+    "customer_id": "C0093",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "H&M",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1691,
+    "customer_id": "C0160",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1692,
+    "customer_id": "C0061",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1693,
+    "customer_id": "C0122",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Puma",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1694,
+    "customer_id": "C0051",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Adidas",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1695,
+    "customer_id": "C0277",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1696,
+    "customer_id": "C0005",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1697,
+    "customer_id": "C0092",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "H&M",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1698,
+    "customer_id": "C0170",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1699,
+    "customer_id": "C0022",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1700,
+    "customer_id": "C0001",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1701,
+    "customer_id": "C0133",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1702,
+    "customer_id": "C0233",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Adidas",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1703,
+    "customer_id": "C0012",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1704,
+    "customer_id": "C0046",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1705,
+    "customer_id": "C0034",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1706,
+    "customer_id": "C0078",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Zara",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1707,
+    "customer_id": "C0218",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Adidas",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1708,
+    "customer_id": "C0073",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1709,
+    "customer_id": "C0282",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1710,
+    "customer_id": "C0249",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Nike",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1711,
+    "customer_id": "C0047",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Zara",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1712,
+    "customer_id": "C0121",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1713,
+    "customer_id": "C0214",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1714,
+    "customer_id": "C0239",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1715,
+    "customer_id": "C0056",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Zara",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1716,
+    "customer_id": "C0107",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Nike",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1717,
+    "customer_id": "C0048",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Zara",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1718,
+    "customer_id": "C0061",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Nike",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1719,
+    "customer_id": "C0026",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1720,
+    "customer_id": "C0292",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1721,
+    "customer_id": "C0257",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Zara",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1722,
+    "customer_id": "C0008",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Adidas",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1723,
+    "customer_id": "C0113",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1724,
+    "customer_id": "C0253",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1725,
+    "customer_id": "C0180",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1726,
+    "customer_id": "C0207",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1727,
+    "customer_id": "C0127",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Adidas",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1728,
+    "customer_id": "C0056",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1729,
+    "customer_id": "C0214",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "H&M",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1730,
+    "customer_id": "C0014",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Zara",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1731,
+    "customer_id": "C0028",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Nike",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1732,
+    "customer_id": "C0078",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1733,
+    "customer_id": "C0216",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1734,
+    "customer_id": "C0154",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1735,
+    "customer_id": "C0014",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1736,
+    "customer_id": "C0187",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Adidas",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1737,
+    "customer_id": "C0007",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1738,
+    "customer_id": "C0003",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Puma",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1739,
+    "customer_id": "C0111",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Nike",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1740,
+    "customer_id": "C0238",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1741,
+    "customer_id": "C0239",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1742,
+    "customer_id": "C0274",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1743,
+    "customer_id": "C0294",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Nike",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1744,
+    "customer_id": "C0227",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Puma",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1745,
+    "customer_id": "C0015",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1746,
+    "customer_id": "C0192",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1747,
+    "customer_id": "C0119",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Zara",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1748,
+    "customer_id": "C0028",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1749,
+    "customer_id": "C0202",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1750,
+    "customer_id": "C0039",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1751,
+    "customer_id": "C0273",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1752,
+    "customer_id": "C0231",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Nike",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1753,
+    "customer_id": "C0086",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1754,
+    "customer_id": "C0126",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1755,
+    "customer_id": "C0025",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1756,
+    "customer_id": "C0145",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Adidas",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1757,
+    "customer_id": "C0013",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "H&M",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1758,
+    "customer_id": "C0212",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1759,
+    "customer_id": "C0025",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Adidas",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1760,
+    "customer_id": "C0068",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "H&M",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1761,
+    "customer_id": "C0067",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1762,
+    "customer_id": "C0233",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Puma",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1763,
+    "customer_id": "C0109",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Puma",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1764,
+    "customer_id": "C0146",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Nike",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1765,
+    "customer_id": "C0111",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "H&M",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1766,
+    "customer_id": "C0228",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1767,
+    "customer_id": "C0111",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Nike",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1768,
+    "customer_id": "C0034",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "H&M",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1769,
+    "customer_id": "C0111",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1770,
+    "customer_id": "C0264",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1771,
+    "customer_id": "C0236",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1772,
+    "customer_id": "C0083",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "H&M",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1773,
+    "customer_id": "C0042",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1774,
+    "customer_id": "C0101",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Adidas",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1775,
+    "customer_id": "C0006",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Nike",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1776,
+    "customer_id": "C0180",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Nike",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1777,
+    "customer_id": "C0282",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1778,
+    "customer_id": "C0226",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "H&M",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1779,
+    "customer_id": "C0229",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1780,
+    "customer_id": "C0289",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1781,
+    "customer_id": "C0150",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1782,
+    "customer_id": "C0277",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1783,
+    "customer_id": "C0198",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Puma",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1784,
+    "customer_id": "C0070",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1785,
+    "customer_id": "C0112",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Nike",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1786,
+    "customer_id": "C0004",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1787,
+    "customer_id": "C0095",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Adidas",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1788,
+    "customer_id": "C0152",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1789,
+    "customer_id": "C0137",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Nike",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1790,
+    "customer_id": "C0247",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1791,
+    "customer_id": "C0243",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "H&M",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1792,
+    "customer_id": "C0031",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1793,
+    "customer_id": "C0040",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1794,
+    "customer_id": "C0229",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Nike",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1795,
+    "customer_id": "C0036",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1796,
+    "customer_id": "C0223",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1797,
+    "customer_id": "C0006",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Adidas",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1798,
+    "customer_id": "C0220",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Puma",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1799,
+    "customer_id": "C0075",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "H&M",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1800,
+    "customer_id": "C0004",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Zara",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1801,
+    "customer_id": "C0134",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1802,
+    "customer_id": "C0118",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Puma",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1803,
+    "customer_id": "C0094",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1804,
+    "customer_id": "C0062",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1805,
+    "customer_id": "C0194",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1806,
+    "customer_id": "C0203",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Nike",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1807,
+    "customer_id": "C0026",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "H&M",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1808,
+    "customer_id": "C0173",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Zara",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1809,
+    "customer_id": "C0133",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Adidas",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1810,
+    "customer_id": "C0118",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Zara",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1811,
+    "customer_id": "C0275",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1812,
+    "customer_id": "C0212",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1813,
+    "customer_id": "C0225",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1814,
+    "customer_id": "C0020",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1815,
+    "customer_id": "C0113",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1816,
+    "customer_id": "C0140",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1817,
+    "customer_id": "C0047",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Nike",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1818,
+    "customer_id": "C0001",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Adidas",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1819,
+    "customer_id": "C0090",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Zara",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1820,
+    "customer_id": "C0142",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1821,
+    "customer_id": "C0038",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Nike",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1822,
+    "customer_id": "C0293",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1823,
+    "customer_id": "C0139",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1824,
+    "customer_id": "C0259",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1825,
+    "customer_id": "C0161",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1826,
+    "customer_id": "C0178",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1827,
+    "customer_id": "C0010",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1828,
+    "customer_id": "C0261",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Zara",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1829,
+    "customer_id": "C0138",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1830,
+    "customer_id": "C0172",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Zara",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1831,
+    "customer_id": "C0013",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Nike",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1832,
+    "customer_id": "C0168",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Puma",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1833,
+    "customer_id": "C0130",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Adidas",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1834,
+    "customer_id": "C0084",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Puma",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1835,
+    "customer_id": "C0101",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1836,
+    "customer_id": "C0273",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1837,
+    "customer_id": "C0265",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Puma",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1838,
+    "customer_id": "C0038",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Puma",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1839,
+    "customer_id": "C0094",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1840,
+    "customer_id": "C0095",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Adidas",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1841,
+    "customer_id": "C0069",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Zara",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1842,
+    "customer_id": "C0236",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Zara",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1843,
+    "customer_id": "C0137",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1844,
+    "customer_id": "C0076",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1845,
+    "customer_id": "C0035",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "H&M",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1846,
+    "customer_id": "C0001",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1847,
+    "customer_id": "C0296",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1848,
+    "customer_id": "C0060",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1849,
+    "customer_id": "C0267",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1850,
+    "customer_id": "C0229",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1851,
+    "customer_id": "C0270",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1852,
+    "customer_id": "C0286",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Zara",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1853,
+    "customer_id": "C0291",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1854,
+    "customer_id": "C0213",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1855,
+    "customer_id": "C0165",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "H&M",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1856,
+    "customer_id": "C0005",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1857,
+    "customer_id": "C0078",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1858,
+    "customer_id": "C0062",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1859,
+    "customer_id": "C0132",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1860,
+    "customer_id": "C0089",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1861,
+    "customer_id": "C0237",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1862,
+    "customer_id": "C0042",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Nike",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1863,
+    "customer_id": "C0089",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1864,
+    "customer_id": "C0296",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1865,
+    "customer_id": "C0295",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Puma",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1866,
+    "customer_id": "C0104",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1867,
+    "customer_id": "C0014",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Zara",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1868,
+    "customer_id": "C0288",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1869,
+    "customer_id": "C0179",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1870,
+    "customer_id": "C0125",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Zara",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1871,
+    "customer_id": "C0023",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1872,
+    "customer_id": "C0063",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Nike",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1873,
+    "customer_id": "C0143",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1874,
+    "customer_id": "C0153",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "H&M",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1875,
+    "customer_id": "C0145",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1876,
+    "customer_id": "C0225",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "H&M",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1877,
+    "customer_id": "C0104",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1878,
+    "customer_id": "C0104",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Zara",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1879,
+    "customer_id": "C0039",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1880,
+    "customer_id": "C0198",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Adidas",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1881,
+    "customer_id": "C0134",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Puma",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1882,
+    "customer_id": "C0067",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Puma",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1883,
+    "customer_id": "C0179",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "H&M",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1884,
+    "customer_id": "C0042",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Nike",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1885,
+    "customer_id": "C0015",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1886,
+    "customer_id": "C0111",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1887,
+    "customer_id": "C0157",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Zara",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1888,
+    "customer_id": "C0289",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1889,
+    "customer_id": "C0231",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Zara",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1890,
+    "customer_id": "C0157",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1891,
+    "customer_id": "C0038",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1892,
+    "customer_id": "C0097",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1893,
+    "customer_id": "C0289",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Puma",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1894,
+    "customer_id": "C0254",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "H&M",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1895,
+    "customer_id": "C0196",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1896,
+    "customer_id": "C0086",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "H&M",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1897,
+    "customer_id": "C0010",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1898,
+    "customer_id": "C0005",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Zara",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1899,
+    "customer_id": "C0123",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1900,
+    "customer_id": "C0118",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Puma",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1901,
+    "customer_id": "C0294",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Zara",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1902,
+    "customer_id": "C0159",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Zara",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1903,
+    "customer_id": "C0228",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1904,
+    "customer_id": "C0216",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1905,
+    "customer_id": "C0184",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1906,
+    "customer_id": "C0015",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Zara",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1907,
+    "customer_id": "C0157",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1908,
+    "customer_id": "C0136",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1909,
+    "customer_id": "C0261",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "H&M",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1910,
+    "customer_id": "C0157",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Adidas",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1911,
+    "customer_id": "C0047",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1912,
+    "customer_id": "C0173",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1913,
+    "customer_id": "C0130",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1914,
+    "customer_id": "C0095",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Adidas",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1915,
+    "customer_id": "C0115",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1916,
+    "customer_id": "C0243",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1917,
+    "customer_id": "C0292",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1918,
+    "customer_id": "C0282",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Nike",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1919,
+    "customer_id": "C0299",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1920,
+    "customer_id": "C0283",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Puma",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1921,
+    "customer_id": "C0069",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1922,
+    "customer_id": "C0148",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Adidas",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1923,
+    "customer_id": "C0011",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1924,
+    "customer_id": "C0254",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1925,
+    "customer_id": "C0038",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1926,
+    "customer_id": "C0134",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Adidas",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1927,
+    "customer_id": "C0200",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Puma",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1928,
+    "customer_id": "C0023",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1929,
+    "customer_id": "C0218",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1930,
+    "customer_id": "C0141",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1931,
+    "customer_id": "C0104",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1932,
+    "customer_id": "C0210",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1933,
+    "customer_id": "C0111",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1934,
+    "customer_id": "C0104",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1935,
+    "customer_id": "C0171",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1936,
+    "customer_id": "C0133",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1937,
+    "customer_id": "C0293",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1938,
+    "customer_id": "C0127",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Adidas",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1939,
+    "customer_id": "C0106",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Adidas",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1940,
+    "customer_id": "C0092",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Puma",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1941,
+    "customer_id": "C0287",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Zara",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1942,
+    "customer_id": "C0051",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Nike",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1943,
+    "customer_id": "C0029",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Zara",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1944,
+    "customer_id": "C0296",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1945,
+    "customer_id": "C0297",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Nike",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1946,
+    "customer_id": "C0214",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1947,
+    "customer_id": "C0267",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Zara",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1948,
+    "customer_id": "C0257",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1949,
+    "customer_id": "C0101",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1950,
+    "customer_id": "C0110",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1951,
+    "customer_id": "C0182",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1952,
+    "customer_id": "C0001",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Nike",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1953,
+    "customer_id": "C0055",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1954,
+    "customer_id": "C0149",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1955,
+    "customer_id": "C0137",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1956,
+    "customer_id": "C0202",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Zara",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1957,
+    "customer_id": "C0117",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1958,
+    "customer_id": "C0154",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1959,
+    "customer_id": "C0291",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1960,
+    "customer_id": "C0063",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Puma",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1961,
+    "customer_id": "C0244",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1962,
+    "customer_id": "C0025",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1963,
+    "customer_id": "C0090",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1964,
+    "customer_id": "C0075",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1965,
+    "customer_id": "C0294",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1966,
+    "customer_id": "C0210",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1967,
+    "customer_id": "C0017",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1968,
+    "customer_id": "C0128",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1969,
+    "customer_id": "C0251",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1970,
+    "customer_id": "C0179",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Adidas",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1971,
+    "customer_id": "C0182",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1972,
+    "customer_id": "C0152",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "H&M",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1973,
+    "customer_id": "C0025",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1974,
+    "customer_id": "C0180",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Puma",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1975,
+    "customer_id": "C0198",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1976,
+    "customer_id": "C0161",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1977,
+    "customer_id": "C0177",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Nike",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1978,
+    "customer_id": "C0285",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "Nike",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1979,
+    "customer_id": "C0063",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Adidas",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1980,
+    "customer_id": "C0150",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1981,
+    "customer_id": "C0154",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1982,
+    "customer_id": "C0156",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1983,
+    "customer_id": "C0049",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": ""
+  },
+  {
+    "order_id": 1984,
+    "customer_id": "C0084",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Adidas",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1985,
+    "customer_id": "C0177",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1986,
+    "customer_id": "C0148",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Email"
+  },
+  {
+    "order_id": 1987,
+    "customer_id": "C0118",
+    "product_name": "Jacket",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1988,
+    "customer_id": "C0063",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Zara",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1989,
+    "customer_id": "C0189",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "H&M",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1990,
+    "customer_id": "C0049",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1991,
+    "customer_id": "C0257",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1992,
+    "customer_id": "C0224",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Zara",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1993,
+    "customer_id": "C0141",
+    "product_name": "Jeans",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1994,
+    "customer_id": "C0215",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Zara",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 1995,
+    "customer_id": "C0211",
+    "product_name": "T-shirt",
+    "category": "Apparel",
+    "supplier": "Puma",
+    "marketing_channel": "Search"
+  },
+  {
+    "order_id": 1996,
+    "customer_id": "C0032",
+    "product_name": "Backpack",
+    "category": "Accessories",
+    "supplier": "Zara",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1997,
+    "customer_id": "C0158",
+    "product_name": "Cap",
+    "category": "Accessories",
+    "supplier": "H&M",
+    "marketing_channel": "Social Media"
+  },
+  {
+    "order_id": 1998,
+    "customer_id": "C0285",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "H&M",
+    "marketing_channel": "Referral"
+  },
+  {
+    "order_id": 1999,
+    "customer_id": "C0286",
+    "product_name": "Sneakers",
+    "category": "Footwear",
+    "supplier": "Zara",
+    "marketing_channel": "Affiliate"
+  },
+  {
+    "order_id": 2000,
+    "customer_id": "C0144",
+    "product_name": "Socks",
+    "category": "Apparel",
+    "supplier": "Nike",
+    "marketing_channel": "Search"
+  }
+]

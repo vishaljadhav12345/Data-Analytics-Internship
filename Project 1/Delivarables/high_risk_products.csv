@@ -1,0 +1,28 @@
+product_name,category,supplier,marketing_channel,return_probability
+Sunglasses,Apparel,Adidas,Unknown,0.921656596187119
+Shoes,Accessories,Adidas,Direct,0.9190769805258648
+Sunglasses,Apparel,Puma,Unknown,0.825058037147256
+Shoes,Accessories,Nike,Unknown,0.8234661707893284
+Watch,Footwear,H&M,Direct,0.8957315580366638
+Backpack,Footwear,Adidas,Unknown,0.9415457725886237
+T-Shirt,Apparel,Puma,Direct,0.8457671111387621
+Watch,Apparel,H&M,Unknown,0.7296533250910737
+T-Shirt,Footwear,H&M,Email,0.7879569821567365
+Shoes,Footwear,Nike,Social Media,0.7885963854773036
+Shoes,Apparel,H&M,Unknown,0.8370114707930881
+Backpack,Footwear,Adidas,Social Media,0.8762544696730006
+Shoes,Accessories,Puma,Social Media,0.7785509021217588
+T-Shirt,Footwear,Adidas,Email,0.7764237690206859
+Shoes,Footwear,H&M,Email,0.8565045405449313
+Backpack,Footwear,Puma,Direct,0.7992104765607094
+Watch,Accessories,H&M,Email,0.7544945201338191
+Watch,Accessories,Puma,Social Media,0.7171776336642622
+Backpack,Footwear,Nike,Social Media,0.9294742675431543
+Sunglasses,Apparel,Puma,Email,0.7759082655533981
+Backpack,Apparel,H&M,Direct,0.9182511524762362
+Watch,Footwear,Puma,Social Media,0.8105831024353749
+Backpack,Accessories,Adidas,Email,0.707406534295053
+Watch,Accessories,Puma,Email,0.9116354885637149
+Watch,Apparel,Puma,Unknown,0.7272123791914032
+T-Shirt,Accessories,Nike,Unknown,0.7441691938947137
+Shoes,Accessories,Puma,Email,0.8271414964093561
